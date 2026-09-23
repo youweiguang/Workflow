@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T12:47:37Z",
-  "total": 140,
+  "updated_at": "2026-09-23T12:50:51Z",
+  "total": 120,
   "platforms": [
     "Amazon Fashion"
   ],
@@ -1716,684 +1716,344 @@
       "prompt_recipe": "commercial fashion catalog photography of a model wearing COOFANDY Men's Short Sleeve Mock Neck Sweater Casual Slim Fit Basic Tops, high-end Sweaters & Knits editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-1",
+      "id": "amz-pants-1",
       "rank": 1,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "Amazon Essentials Women's Slim-Fit Ribbed Scoop Neck Tank Tops, Pack of 2",
-      "image_url": "https://m.media-amazon.com/images/I/61Q13fPs1lL.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "PRETTYGARDEN Women's Tailored Wide Leg Work Dress Pants | High Waisted Flowy Business Casual Palazzo Pants, Professional Office Trousers Slacks, Interview Outfits, Work Clothes",
+      "image_url": "https://m.media-amazon.com/images/I/61-tmSOVLxL.jpg",
       "heat_score": 98,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Amazon Essentials Women's Slim-Fit Ribbed Scoop Neck Tank Tops Pack of 2, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing PRETTYGARDEN Women's Tailored Wide Leg Work Dress Pants High Waisted Flowy Business, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-2",
+      "id": "amz-pants-2",
       "rank": 2,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "Trendy Queen Women's Double Lined Square Neck Tank Top | Buttery Soft, No-Bra Friendly Slim Fit Crop Cami for Summer Layering & Casual Wear",
-      "image_url": "https://m.media-amazon.com/images/I/61Dpulp6GbL.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "Ewedoos Wide Leg Dress Work Pants for Women Business Casual Office Outfits | Stretchy Pull on Slacks Trousers, Wrinkle-Resistant, 2 Side Pockets, Comfy for All-Day Wear, Business Casual, Travel,Teacher",
+      "image_url": "https://m.media-amazon.com/images/I/718itE4zCBL.jpg",
       "heat_score": 96,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Trendy Queen Women's Double Lined Square Neck Tank Top Buttery Soft No-Bra, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Ewedoos Wide Leg Dress Work Pants for Women Business Casual Office Outfits, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-3",
+      "id": "amz-pants-3",
       "rank": 3,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "ANRABESS High Neck Ribbed Tank Tops for Women Sleeveless Summer Tops | Soft Stretchy Slim Fit Racerback Basic Layering Shirts, Wide Strap, Work Yoga Going Out Tops, Spring Casual Fashion Clothing",
-      "image_url": "https://m.media-amazon.com/images/I/71RU-tOgRrL.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "Lee Women's Wrinkle Free Relaxed Fit Straight Leg Pant",
+      "image_url": "https://m.media-amazon.com/images/I/71qQHk-z-bL.jpg",
       "heat_score": 94,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing ANRABESS High Neck Ribbed Tank Tops for Women Sleeveless Summer Tops Soft, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Lee Women's Wrinkle Free Relaxed Fit Straight Leg Pant, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-4",
+      "id": "amz-pants-4",
       "rank": 4,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "ANRABESS Womens Square Neck Ribbed Tank Tops 2026 Summer Sleeveless Shirts | Soft Lightweight Slim Fit Basic Tee，Casual Work Going Out Outfits，Fall Spring Layer Undershirts，2026 Women Fashion Clothing",
-      "image_url": "https://m.media-amazon.com/images/I/71sk-+ha+BL.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "Sampeel Wide Leg Pants Woman High Waist Trousers with Pockets Casual Lounge",
+      "image_url": "https://m.media-amazon.com/images/I/71LXAwyTqJL.jpg",
       "heat_score": 92,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing ANRABESS Womens Square Neck Ribbed Tank Tops 2026 Summer Sleeveless Shirts Soft, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Sampeel Wide Leg Pants Woman High Waist Trousers with Pockets Casual Lounge, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-5",
+      "id": "amz-pants-5",
       "rank": 5,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "Trendy Queen Women's Strapless Bandeau Crop Top | Buttery Soft Stretchy Bandeau Crop Top for Summer Layering & Casual Wear",
-      "image_url": "https://m.media-amazon.com/images/I/71KosKqM5gL.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "Lee Women's Ultra Lux Comfort with Flex Motion Trouser Pant",
+      "image_url": "https://m.media-amazon.com/images/I/612gGYUB+gL.jpg",
       "heat_score": 90,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Trendy Queen Women's Strapless Bandeau Crop Top Buttery Soft Stretchy Bandeau Crop, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Lee Women's Ultra Lux Comfort with Flex Motion Trouser Pant, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-6",
+      "id": "amz-pants-6",
       "rank": 6,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "PINKMSTYLE Women's Basic Double Lined Scoop Neck Tank Tops Summer Cami Top | Adjustable Spaghetti Strap,Soft Skin Stretch,Slim Fit for Everyday Wear",
-      "image_url": "https://m.media-amazon.com/images/I/614kvF8JGvL.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "Sampeel Wide Leg Pants for Women Flowy Palazzo Drawstring Elastic Waist Trousers with Pockets Summer Beach Vacation Clothes",
+      "image_url": "https://m.media-amazon.com/images/I/617DlqyEdFL.jpg",
       "heat_score": 88,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing PINKMSTYLE Women's Basic Double Lined Scoop Neck Tank Tops Summer Cami Top, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Sampeel Wide Leg Pants for Women Flowy Palazzo Drawstring Elastic Waist Trousers, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-7",
+      "id": "amz-pants-7",
       "rank": 7,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "Ekouaer Womens Satin Tank Tops Summer Sleeveless Tops V Neck Casual Shirts | Buttery Soft, Double Layer, Layering Under Blazer, Going Out, Casual, Vacation, Daily Outfits, Fashion Clothing",
-      "image_url": "https://m.media-amazon.com/images/I/71fKGyHPQnL.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "ANRABESS Womens Wide Leg Palazzo Capri Barrel Pants Cropped Trousers | Lightweight Breathable Smocked High Waisted Pocket Design, Beach Vacation Work Outfits, Summer Casual Lounge Flowy Pants",
+      "image_url": "https://m.media-amazon.com/images/I/61G9rVc6FLL.jpg",
       "heat_score": 86,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Ekouaer Womens Satin Tank Tops Summer Sleeveless Tops V Neck Casual Shirts, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing ANRABESS Womens Wide Leg Palazzo Capri Barrel Pants Cropped Trousers Lightweight Breathable, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-8",
+      "id": "amz-pants-8",
       "rank": 8,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "ANRABESS Tank Tops for Women V Neck Summer Sleeveless Ribbed Knit | Soft Stretchy Slim Fit Basic Tee Tanks, Casual Cute Work Going Out Outfits, Fall Spring Layering Shirts Essentials Clothes",
-      "image_url": "https://m.media-amazon.com/images/I/81mnULy5dnL.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "DLOODA Womens Bootcut Dress Pants Business Casual Work Pants with Pockets | Comfortable Stretch Fabric, High Waist, Pull On, Faux Fly, Flattering Fit, Office Slacks, Versatility, Casual, Travel",
+      "image_url": "https://m.media-amazon.com/images/I/61hJ-EwS+JL.jpg",
       "heat_score": 84,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing ANRABESS Tank Tops for Women V Neck Summer Sleeveless Ribbed Knit Soft, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing DLOODA Womens Bootcut Dress Pants Business Casual Work Pants with Pockets Comfortable, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-9",
+      "id": "amz-pants-9",
       "rank": 9,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "Arach&Cloz Women's Wool Blend Sleeveless All Season Business Casual Tank | Soft Breathable Wool Blend Stretchy lightweight Sleeveless Business Casual Work Outfit Spring Summer Fall Clothes Wear 2026",
-      "image_url": "https://m.media-amazon.com/images/I/814JMBt1LaL.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "ANRABESS Womens Wide Leg Palazzo Pants with Pockets | Lightweight Breathable High Waisted Pants, Beach Vacation Flowy, Lounge & Casual Summer Trousers",
+      "image_url": "https://m.media-amazon.com/images/I/71uA+VwgfBL.jpg",
       "heat_score": 82,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Arach&Cloz Women's Wool Blend Sleeveless All Season Business Casual Tank Soft Breathable, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing ANRABESS Womens Wide Leg Palazzo Pants with Pockets Lightweight Breathable High Waisted, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-10",
+      "id": "amz-pants-10",
       "rank": 10,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "CHICME Women Built-in Bra Tank Tops Sleeveless Racerback Ribbed Fitted Tops | Double-Layer Built-in Bra Support, Soft Rib-knit Stretchy Fabric, Basic Casual Shirts, Y2K Summer Going Out, All-day Comfort",
-      "image_url": "https://m.media-amazon.com/images/I/71xD9Fdl09L.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "Chownet Women Wide Leg Casual Pants Flowy Palazzo Pants with Pockets Elastic High Waist Lounge Pants",
+      "image_url": "https://m.media-amazon.com/images/I/618I-UKvk1L.jpg",
       "heat_score": 80,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing CHICME Women Built-in Bra Tank Tops Sleeveless Racerback Ribbed Fitted Tops Double-Layer, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Chownet Women Wide Leg Casual Pants Flowy Palazzo Pants with Pockets Elastic, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-11",
+      "id": "amz-pants-11",
       "rank": 11,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "PRETTYGARDEN Women's Summer Sleeveless Ribbed Tank Tops | Cute Y2K Spring Going Out Shirts, Crew Neck Seam Wide Strap Slim Fitted Cropped Tops, Garment Friendly",
-      "image_url": "https://m.media-amazon.com/images/I/81M1JbChONL.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "PRETTYGARDEN Womens Wide Leg Dress Pants Flowy Trousers | Front Pleats,Side Zipper,Pockets,High Waisted Palazzo Pants,Professional Interview Slacks,Office Work Business Casual Outfits",
+      "image_url": "https://m.media-amazon.com/images/I/61CS13VqenL.jpg",
       "heat_score": 78,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing PRETTYGARDEN Women's Summer Sleeveless Ribbed Tank Tops Cute Y2K Spring Going Out, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing PRETTYGARDEN Womens Wide Leg Dress Pants Flowy Trousers Front Pleats Side Zipper, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-12",
+      "id": "amz-pants-12",
       "rank": 12,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "AUTOMET Women's Square Neck Tank Top | Soft Lightweight Sleeveless Shirt, Loose Fit Flowy Summer Basic for Layering, Casual & Workout",
-      "image_url": "https://m.media-amazon.com/images/I/71Ejj6ChGBL.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "Xiaoxuemeng Womens Baggy Wide Leg Pants Casual Elastic Waisted Harem Pants | High Rise Womens Sweatpants with Pockets, Lounge Barrel Palazzo Pants, Solid Color, for Vacation, Work, Home, Pull On Style",
+      "image_url": "https://m.media-amazon.com/images/I/71cmg5qVSYL.jpg",
       "heat_score": 76,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing AUTOMET Women's Square Neck Tank Top Soft Lightweight Sleeveless Shirt Loose Fit, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Xiaoxuemeng Womens Baggy Wide Leg Pants Casual Elastic Waisted Harem Pants High, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-13",
+      "id": "amz-pants-13",
       "rank": 13,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "EVALESS Business Casual Tops for Women Pleated V Neck | Sleeveless Tank Top,Work Blouses Dressy,Professional Interview Outfits,Office Clothes,Under Blazers and Suit Jackets",
-      "image_url": "https://m.media-amazon.com/images/I/619o9fowJrL.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "iChosy Women's Stretch Straight Leg Dress Work Pants Business Casual Slacks | Office Trousers, Elastic Waistband, Functional Pockets, Breathable Lightweight Fabric, Belt Loops, Multiple Inseam Lengths",
+      "image_url": "https://m.media-amazon.com/images/I/61dRugKpJsL.jpg",
       "heat_score": 74,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing EVALESS Business Casual Tops for Women Pleated V Neck Sleeveless Tank Top, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing iChosy Women's Stretch Straight Leg Dress Work Pants Business Casual Slacks Office, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-14",
+      "id": "amz-pants-14",
       "rank": 14,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "Arach&Cloz Women's Wool Blend Mock Neck Fall Business Casual Sweater Tank | Soft, Mock Neck Sleeveless Sweater Vest,Slim Flattering Fit, Fall Work Fashion Top, Office Daily Commute Outfits",
-      "image_url": "https://m.media-amazon.com/images/I/81KEknWHBtL.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "NIMIN Women Work Pants Business Casual Outfits Dress Trousers with Pockets | Wide Leg Pants, Front Pleated, Office Formal Daily Wear Slacks, Professional Interview Outfits",
+      "image_url": "https://m.media-amazon.com/images/I/51VqsJIZwRL.jpg",
       "heat_score": 72,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Arach&Cloz Women's Wool Blend Mock Neck Fall Business Casual Sweater Tank Soft, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing NIMIN Women Work Pants Business Casual Outfits Dress Trousers with Pockets Wide, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-15",
+      "id": "amz-pants-15",
       "rank": 15,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "GKBK Womens Tank Tops High Neck Sleeveless Ribbed Tank Casual Basic Thick Strap Slim Fitted Racerback Shirts",
-      "image_url": "https://m.media-amazon.com/images/I/717Fibo5KVL.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "Lepunuo Cargo Pants for Women High Waisted Casual Pants Baggy Stretchy Wide Leg Y2K Streetwear with 6 Pockets",
+      "image_url": "https://m.media-amazon.com/images/I/5164CQMEFcL.jpg",
       "heat_score": 70,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing GKBK Womens Tank Tops High Neck Sleeveless Ribbed Tank Casual Basic Thick, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Lepunuo Cargo Pants for Women High Waisted Casual Pants Baggy Stretchy Wide, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-16",
+      "id": "amz-pants-16",
       "rank": 16,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "QINSEN Women's Double Lined Basic Tank Top Adjustable Spaghetti Straps Sleeveless Camisole Shirts",
-      "image_url": "https://m.media-amazon.com/images/I/61IPDQs1ElL.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "SeeLuNa Women Barrel Travel Pants Elastic Waistband Tapered Leg Baggy Mid Rise Work Trousers Lounge Pant with Pockets",
+      "image_url": "https://m.media-amazon.com/images/I/61kEWf9nx1L.jpg",
       "heat_score": 68,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing QINSEN Women's Double Lined Basic Tank Top Adjustable Spaghetti Straps Sleeveless Camisole, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing SeeLuNa Women Barrel Travel Pants Elastic Waistband Tapered Leg Baggy Mid Rise, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-17",
+      "id": "amz-pants-17",
       "rank": 17,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "Trendy Queen Womens Double Lined Adjustable Spaghetti Strap Tank Tops | Summer Camisole Athletic Workout Gym Going Out Cute Basic Crop Top for juniors",
-      "image_url": "https://m.media-amazon.com/images/I/61PEW7kYEXL.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "iChosy Womens High Waist Wide Straight Leg Trousers Casual Slacks Dress Pants with Pockets",
+      "image_url": "https://m.media-amazon.com/images/I/61P2HFoBVeL.jpg",
       "heat_score": 66,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Trendy Queen Womens Double Lined Adjustable Spaghetti Strap Tank Tops Summer Camisole, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing iChosy Womens High Waist Wide Straight Leg Trousers Casual Slacks Dress Pants, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-18",
+      "id": "amz-pants-18",
       "rank": 18,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "Zeagoo Womens Tank Tops Summer Sleeveless Tops V Neck Pleated Shirts | Summer Sleeveless Loose Fit Tops,Basic Tees,Dressy Casual Trendy Clothes,Fashion Clothing,Cute Tops,Womens Tops,Ladies Shirts",
-      "image_url": "https://m.media-amazon.com/images/I/810GUnewqHL.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "FUNYYZO Wide Leg Dress Pants for Women Work Slacks Business Casual Outfits | Office Dress Pants for Women, High Waisted, Back Elastic Waistband, Multiple Color Size, Loose Summer Pants",
+      "image_url": "https://m.media-amazon.com/images/I/61zug841EzL.jpg",
       "heat_score": 64,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Zeagoo Womens Tank Tops Summer Sleeveless Tops V Neck Pleated Shirts Summer, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing FUNYYZO Wide Leg Dress Pants for Women Work Slacks Business Casual Outfits, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-19",
+      "id": "amz-pants-19",
       "rank": 19,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "Danysu V Neck Cotton Tank Top with Built-in Shelf Bra Racerback Fitted Cami | Skin-Tone Lining, Self Bra, Stretchy Ribbed, Sexy V Neck, Fitted Shirt, Y2K Summer Going Out, Everyday Tank",
-      "image_url": "https://m.media-amazon.com/images/I/716vWJ7Qy7L.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "Faleave Women's Cotton Linen Summer Palazzo Pants Flowy Wide Leg Beach Trousers with Pockets",
+      "image_url": "https://m.media-amazon.com/images/I/61o7Ju7CiXL.jpg",
       "heat_score": 62,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Danysu V Neck Cotton Tank Top with Built-in Shelf Bra Racerback Fitted, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Faleave Women's Cotton Linen Summer Palazzo Pants Flowy Wide Leg Beach Trousers, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-activewear-20",
+      "id": "amz-pants-20",
       "rank": 20,
       "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
-      "title": "Zeagoo Women's Square Neck Double Lined Tank Tops Cute Summer Top | Basic Women Tops, Cute Going Out Tanks, Seamless Slim Fit Sleeveless Shirts, Business Casual Outfits, Trendy Clothes",
-      "image_url": "https://m.media-amazon.com/images/I/71LMtBnCsRL.jpg",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "G4Free EverGoing Women's Wide Leg Dress Pants with Pockets Belt Loops | Faux Fly, 4-Way Stretch, Moisture Wicking, Soft Comfortable, Decorative Back Pockets, Casual Work Wear, Fall Outfits",
+      "image_url": "https://m.media-amazon.com/images/I/51TY0gsFoVL.jpg",
       "heat_score": 60,
       "tags": [
         "Amazon Hot",
-        "Activewear & Sets",
+        "Pants & Jeans",
         "Bestseller"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Zeagoo Women's Square Neck Double Lined Tank Tops Cute Summer Top Basic, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-1",
-      "rank": 1,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "Amazon Essentials Men's 7\" Quick-Dry Swim Trunk, Lightweight Breathable",
-      "image_url": "https://m.media-amazon.com/images/I/713uETXgLnL.jpg",
-      "heat_score": 98,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Amazon Essentials Men's 7\" Quick-Dry Swim Trunk Lightweight Breathable, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-2",
-      "rank": 2,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "SILKWORLD Men's Swim Trunks Quick Dry Beach Shorts with Pockets | mesh lining, dry fast, adjustable waist, side pockets, comfort,well made,swimming,beach shorts, water sports,vacation trips",
-      "image_url": "https://m.media-amazon.com/images/I/7104Or3cf6L.jpg",
-      "heat_score": 96,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing SILKWORLD Men's Swim Trunks Quick Dry Beach Shorts with Pockets mesh lining, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-3",
-      "rank": 3,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "Lzzidou Men's Swim Trunks Mesh Lining Board Shorts Hawaiian Bathing Suit | 8 Inch Inseam Swimsuits Quick Dry Water Resistant Summer Beach Shorts with Pockets",
-      "image_url": "https://m.media-amazon.com/images/I/51gqcYaCNoL.jpg",
-      "heat_score": 94,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Lzzidou Men's Swim Trunks Mesh Lining Board Shorts Hawaiian Bathing Suit 8, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-4",
-      "rank": 4,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "maamgic Mens Swim Trunks Quick Dry Swim Shorts with Mesh Lining Funny Swimwear Bathing Suits 7inch",
-      "image_url": "https://m.media-amazon.com/images/I/81aSUoXsckL.jpg",
-      "heat_score": 92,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing maamgic Mens Swim Trunks Quick Dry Swim Shorts with Mesh Lining Funny, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-5",
-      "rank": 5,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "Mens Swimming Trunks Swim Trunks Quick Dry Swim Shorts with Mesh Lining Funny Swimwear Bathing Suits",
-      "image_url": "https://m.media-amazon.com/images/I/61cvr4nzm+L.jpg",
-      "heat_score": 90,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Mens Swimming Trunks Swim Trunks Quick Dry Swim Shorts with Mesh Lining, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-6",
-      "rank": 6,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "SILKWORLD Mens Swimming Trunks with Compression Liner and Zipper Pockets | Compression Liner, Zip & Liner Pockets, Elastic Waist, Anti-Chafing, Breathable, Swimming, Beach, Vacation, Casual",
-      "image_url": "https://m.media-amazon.com/images/I/61cfGWWHAkL.jpg",
-      "heat_score": 88,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing SILKWORLD Mens Swimming Trunks with Compression Liner and Zipper Pockets Compression Liner, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-7",
-      "rank": 7,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "Tyhengta Men's Swim Trunks Quick Dry Beach Shorts with Zipper Pockets and Mesh Lining",
-      "image_url": "https://m.media-amazon.com/images/I/71ofItXUjhL.jpg",
-      "heat_score": 86,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Tyhengta Men's Swim Trunks Quick Dry Beach Shorts with Zipper Pockets and, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-8",
-      "rank": 8,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "Quiksilver Men's Swimwear Regular Fit Stretchable Comfort Liner Swim Trunks (S-XXL)",
-      "image_url": "https://m.media-amazon.com/images/I/81owYzmzPAL.jpg",
-      "heat_score": 84,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Quiksilver Men's Swimwear Regular Fit Stretchable Comfort Liner Swim Trunks S-XXL, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-9",
-      "rank": 9,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "Yufawow Men Swim Trunks with Compression 7 Inches Breathable Liner Quick Dry Zipper Pockets for Board Beach Gym Running",
-      "image_url": "https://m.media-amazon.com/images/I/71sexc0odHL.jpg",
-      "heat_score": 82,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Yufawow Men Swim Trunks with Compression 7 Inches Breathable Liner Quick Dry, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-10",
-      "rank": 10,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "Amazon Essentials Men's 9\" Quick-Dry Lightweight Breathable Swim Trunk with Mesh Liner",
-      "image_url": "https://m.media-amazon.com/images/I/71JegX0rl8L.jpg",
-      "heat_score": 80,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Amazon Essentials Men's 9\" Quick-Dry Lightweight Breathable Swim Trunk with Mesh Liner, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-11",
-      "rank": 11,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "COOFANDY Men's Swim Trunks Quick Dry Board Shorts Swimwear Bathing Suit | Quick-dry Four-Way Stretch Fabric,Triangular Mesh Lining,3 inch Inseam,Two Side Pockets. Lightweight Beach Stuff for Men.",
-      "image_url": "https://m.media-amazon.com/images/I/71C4FtXBYIS.jpg",
-      "heat_score": 78,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing COOFANDY Men's Swim Trunks Quick Dry Board Shorts Swimwear Bathing Suit Quick-dry, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-12",
-      "rank": 12,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "Yufawow 9 Inch Men Swim Trunks with Compression Breathable Liner Quick Dry Zipper Pockets for Water Beach Travel Cruise",
-      "image_url": "https://m.media-amazon.com/images/I/819SGuZZ3nL.jpg",
-      "heat_score": 76,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Yufawow 9 Inch Men Swim Trunks with Compression Breathable Liner Quick Dry, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-13",
-      "rank": 13,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "APTRO Men's Swim Trunks 9 inch Bathing Suit Big & Tall | Quick Dry Fabric, Mesh Liner, Elastic Waistband, Drawstring, Swim Shorts for Beach, Swimming, Vacation, Party",
-      "image_url": "https://m.media-amazon.com/images/I/814REEnTBdL.jpg",
-      "heat_score": 74,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing APTRO Men's Swim Trunks 9 inch Bathing Suit Big & Tall Quick, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-14",
-      "rank": 14,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "HODOSPORTS Mens 7\" Swim Trunks with Compression Liner S-6XL Quick Dry Swimming Shorts Zipper Pockets Swimsuits",
-      "image_url": "https://m.media-amazon.com/images/I/71LuAJjITuL.jpg",
-      "heat_score": 72,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing HODOSPORTS Mens 7\" Swim Trunks with Compression Liner S-6XL Quick Dry Swimming, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-15",
-      "rank": 15,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "Quiksilver Men's Regular Fit Fixed Waist Water Friendly Active Hybrid Shorts",
-      "image_url": "https://m.media-amazon.com/images/I/71xi6k5oAOL.jpg",
-      "heat_score": 70,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Quiksilver Men's Regular Fit Fixed Waist Water Friendly Active Hybrid Shorts, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-16",
-      "rank": 16,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "SILKWORLD Men's Swim Trunks with Compression Liner Quick Dry Bathing Suits | 9 Inch, 5 Pockts, Deep Cargo & Side Pocket, 2 in 1, Dry Fast, Swimming Shorts,Beach, Pool, Water Sprots, Cruise, Beach",
-      "image_url": "https://m.media-amazon.com/images/I/71rsipJ6HXL.jpg",
-      "heat_score": 68,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing SILKWORLD Men's Swim Trunks with Compression Liner Quick Dry Bathing Suits 9, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-17",
-      "rank": 17,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "maamgic Mens Swim Trunks 5 Inch with Mesh Liner Breathable for Beach",
-      "image_url": "https://m.media-amazon.com/images/I/81a49ev0ROL.jpg",
-      "heat_score": 66,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing maamgic Mens Swim Trunks 5 Inch with Mesh Liner Breathable for Beach, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-18",
-      "rank": 18,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "Sixfish Mens Swim Trunks 7 Inch Quick Dry Board Shorts with Pockets | Compression Liner,Zipper & Liner Pockets,Waterproof,Anti-Chafing,UV protection,Beach Shorts,Vacation,Bathing Suit,Swimsuit",
-      "image_url": "https://m.media-amazon.com/images/I/71yzqJbsUnL.jpg",
-      "heat_score": 64,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Sixfish Mens Swim Trunks 7 Inch Quick Dry Board Shorts with Pockets, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-19",
-      "rank": 19,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "COOFANDY Men Swim Trunk with Compression Liner 2 in 1 Swimwear Bathing Suit Quick Dry Board Short",
-      "image_url": "https://m.media-amazon.com/images/I/71htvRv3T0L.jpg",
-      "heat_score": 62,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing COOFANDY Men Swim Trunk with Compression Liner 2 in 1 Swimwear Bathing, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-swimwear-20",
-      "rank": 20,
-      "platform": "Amazon Fashion",
-      "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
-      "category_en": "Swimwear & Beach",
-      "title": "maamgic Mens Swim Trunks 5\" with Mesh Lining Quick Dry Bathing Suits for Men Swim Shorts Swimwear",
-      "image_url": "https://m.media-amazon.com/images/I/61gFvtwxUKL.jpg",
-      "heat_score": 60,
-      "tags": [
-        "Amazon Hot",
-        "Swimwear & Beach",
-        "Bestseller"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing maamgic Mens Swim Trunks 5\" with Mesh Lining Quick Dry Bathing Suits, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing G4Free EverGoing Women's Wide Leg Dress Pants with Pockets Belt Loops Faux, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon, 8k resolution, photorealistic"
     }
   ]
 }
