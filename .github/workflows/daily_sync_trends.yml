@@ -4,7 +4,7 @@ on:
   schedule:
     # 每天北京时间凌晨 02:30 (UTC 18:30) 自动执行
     - cron: '30 18 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # 支持网页端随时手动一键触发
 
 permissions:
   contents: write
@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4
 
-      - name: Run Trend Collector (Amazon + ASOS)
+      - name: Run Trend Collector (Amazon 8 Categories)
         run: python scripts/sync_ecommerce_trends.py
 
       - name: Commit and Push Updated Data
@@ -32,4 +32,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/ecommerce_hot_products.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(trends): auto-sync Amazon & ASOS fashion trends [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(trends): auto-sync latest Amazon fashion bestsellers [skip ci]" && git push)
