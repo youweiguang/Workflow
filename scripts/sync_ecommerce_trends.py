@@ -10,115 +10,32 @@ from playwright.sync_api import sync_playwright
 AMAZON_HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
     'Accept-Language': 'en-US,en;q=0.9',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
 }
 
-# 8 大核心服装品类 (Amazon Fashion US)
 AMAZON_CATEGORIES = [
-    {
-        "key": "dresses",
-        "name_en": "Dresses",
-        "name_cn": "连衣裙与礼服",
-        "url": "https://www.amazon.com/gp/bestsellers/fashion/1045024/"
-    },
-    {
-        "key": "tops",
-        "name_en": "Tops & Shirts",
-        "name_cn": "上衣与衬衫",
-        "url": "https://www.amazon.com/gp/bestsellers/fashion/2368343011/"
-    },
-    {
-        "key": "outerwear",
-        "name_en": "Outerwear & Coats",
-        "name_cn": "外套与风衣",
-        "url": "https://www.amazon.com/gp/bestsellers/fashion/1044456/"
-    },
-    {
-        "key": "skirts",
-        "name_en": "Skirts",
-        "name_cn": "半身裙",
-        "url": "https://www.amazon.com/gp/bestsellers/fashion/1045022/"
-    },
-    {
-        "key": "sweaters",
-        "name_en": "Sweaters & Knits",
-        "name_cn": "毛衣与针织衫",
-        "url": "https://www.amazon.com/gp/bestsellers/fashion/1044442/"
-    },
-    {
-        "key": "pants",
-        "name_en": "Pants & Jeans",
-        "name_cn": "裤装与牛仔",
-        "url": "https://www.amazon.com/gp/bestsellers/fashion/1048184/"
-    },
-    {
-        "key": "activewear",
-        "name_en": "Activewear & Sets",
-        "name_cn": "运动与套装",
-        "url": "https://www.amazon.com/gp/bestsellers/fashion/2368344011/"
-    },
-    {
-        "key": "swimwear",
-        "name_en": "Swimwear & Beach",
-        "name_cn": "泳装与沙滩服",
-        "url": "https://www.amazon.com/gp/bestsellers/fashion/1046672/"
-    }
+    {"key": "dresses", "name_en": "Dresses", "name_cn": "连衣裙与礼服", "url": "https://www.amazon.com/gp/bestsellers/fashion/1045024/"},
+    {"key": "tops", "name_en": "Tops & Shirts", "name_cn": "上衣与衬衫", "url": "https://www.amazon.com/gp/bestsellers/fashion/2368343011/"},
+    {"key": "outerwear", "name_en": "Outerwear & Coats", "name_cn": "外套与风衣", "url": "https://www.amazon.com/gp/bestsellers/fashion/1044456/"},
+    {"key": "skirts", "name_en": "Skirts", "name_cn": "半身裙", "url": "https://www.amazon.com/gp/bestsellers/fashion/1045022/"},
+    {"key": "sweaters", "name_en": "Sweaters & Knits", "name_cn": "毛衣与针织衫", "url": "https://www.amazon.com/gp/bestsellers/fashion/1044442/"},
+    {"key": "pants", "name_en": "Pants & Jeans", "name_cn": "裤装与牛仔", "url": "https://www.amazon.com/gp/bestsellers/fashion/1048184/"},
+    {"key": "activewear", "name_en": "Activewear & Sets", "name_cn": "运动与套装", "url": "https://www.amazon.com/gp/bestsellers/fashion/2368344011/"},
+    {"key": "swimwear", "name_en": "Swimwear & Beach", "name_cn": "泳装与沙滩服", "url": "https://www.amazon.com/gp/bestsellers/fashion/1046672/"}
 ]
 
-# 8 大核心服装品类 (SHEIN Trends)
+# SHEIN 精准分类及 cat_id / search_key
 SHEIN_CATEGORIES = [
-    {
-        "key": "shein-dresses",
-        "name_en": "Dresses",
-        "name_cn": "连衣裙与礼服",
-        "url": "https://us.shein.com/trends/Women-Dresses-sc-00667087.html?sort=7"
-    },
-    {
-        "key": "shein-tops",
-        "name_en": "Tops & Blouses",
-        "name_cn": "上衣与衬衫",
-        "url": "https://us.shein.com/trends/Women-Tops-Blouses-Tees-sc-00667088.html?sort=7"
-    },
-    {
-        "key": "shein-outerwear",
-        "name_en": "Outerwear & Coats",
-        "name_cn": "外套与风衣",
-        "url": "https://us.shein.com/trends/Women-Outerwear-Coats-Jackets-sc-00667089.html?sort=7"
-    },
-    {
-        "key": "shein-skirts",
-        "name_en": "Skirts",
-        "name_cn": "半身裙",
-        "url": "https://us.shein.com/trends/Women-Skirts-sc-00667090.html?sort=7"
-    },
-    {
-        "key": "shein-sweaters",
-        "name_en": "Knitwear & Sweaters",
-        "name_cn": "毛衣与针织衫",
-        "url": "https://us.shein.com/trends/Women-Knitwear-Sweaters-Cardigans-sc-00667091.html?sort=7"
-    },
-    {
-        "key": "shein-pants",
-        "name_en": "Pants & Jeans",
-        "name_cn": "裤装与牛仔",
-        "url": "https://us.shein.com/trends/Women-Pants-Jeans-Leggings-sc-00667092.html?sort=7"
-    },
-    {
-        "key": "shein-activewear",
-        "name_en": "Activewear & Sets",
-        "name_cn": "运动与套装",
-        "url": "https://us.shein.com/trends/Women-Two-Piece-Outfits-Sets-sc-00667093.html?sort=7"
-    },
-    {
-        "key": "shein-swimwear",
-        "name_en": "Swimwear & Beach",
-        "name_cn": "泳装与沙滩服",
-        "url": "https://us.shein.com/trends/Women-Beachwear-Swimsuits-Bikinis-sc-00667094.html?sort=7"
-    }
+    {"key": "shein-dresses", "name_en": "Dresses", "name_cn": "连衣裙与礼服", "cat_id": "1727", "url": "https://us.shein.com/Women-Dresses-c-1727.html?sort=7"},
+    {"key": "shein-tops", "name_en": "Tops & Blouses", "name_cn": "上衣与衬衫", "cat_id": "1738", "url": "https://us.shein.com/Women-Tops-Blouses-Tees-c-1738.html?sort=7"},
+    {"key": "shein-outerwear", "name_en": "Outerwear & Coats", "name_cn": "外套与风衣", "cat_id": "1735", "url": "https://us.shein.com/Women-Outerwear-Coats-Jackets-c-1735.html?sort=7"},
+    {"key": "shein-skirts", "name_en": "Skirts", "name_cn": "半身裙", "cat_id": "1732", "url": "https://us.shein.com/Women-Skirts-c-1732.html?sort=7"},
+    {"key": "shein-sweaters", "name_en": "Knitwear & Sweaters", "name_cn": "毛衣与针织衫", "cat_id": "1734", "url": "https://us.shein.com/Women-Knitwear-Sweaters-Cardigans-c-1734.html?sort=7"},
+    {"key": "shein-pants", "name_en": "Pants & Jeans", "name_cn": "裤装与牛仔", "cat_id": "1740", "url": "https://us.shein.com/Women-Pants-Jeans-Leggings-c-1740.html?sort=7"},
+    {"key": "shein-activewear", "name_en": "Activewear & Sets", "name_cn": "运动与套装", "cat_id": "1780", "url": "https://us.shein.com/Two-Piece-Outfits-c-1780.html?sort=7"},
+    {"key": "shein-swimwear", "name_en": "Swimwear & Beach", "name_cn": "泳装与沙滩服", "cat_id": "1784", "url": "https://us.shein.com/Women-Beachwear-Swimsuits-Bikinis-c-1784.html?sort=7"}
 ]
 
 def clean_amazon_image(raw_url: str) -> str:
-    """提取亚马逊图片 ID 并转换为国内直连的全球高清 CDN 地址"""
     if not raw_url:
         return ""
     match = re.search(r'/images/I/([A-Za-z0-9+%-]+?)(?:\._.*)?\.(jpg|png|jpeg)', raw_url)
@@ -127,7 +44,6 @@ def clean_amazon_image(raw_url: str) -> str:
     return raw_url
 
 def clean_shein_image(raw_url: str) -> str:
-    """清洗 SHEIN 缩略图为国内直连高清大图"""
     if not raw_url:
         return ""
     if raw_url.startswith('//'):
@@ -136,7 +52,6 @@ def clean_shein_image(raw_url: str) -> str:
     return raw_url
 
 def build_prompt_recipe(title: str, category_en: str, platform: str) -> str:
-    """基于商品标题提炼适用于 AI 服装创作的高质量 Prompt"""
     clean_title = re.sub(r'[\(\)\[\],|]', ' ', title).strip()
     clean_title = ' '.join(clean_title.split()[:12])
     return (
@@ -145,7 +60,7 @@ def build_prompt_recipe(title: str, category_en: str, platform: str) -> str:
         f"professional studio lighting, trending on {platform}, 8k resolution, photorealistic"
     )
 
-def scrape_amazon_category(cat_info: dict, max_items: int = 10) -> list:
+def scrape_amazon_category(cat_info: dict, max_items: int = 20) -> list:
     items = []
     seen_images = set()
     print(f"[*] [Amazon] Scraping {cat_info['name_cn']} ({cat_info['name_en']})...")
@@ -154,7 +69,7 @@ def scrape_amazon_category(cat_info: dict, max_items: int = 10) -> list:
         resp = requests.get(cat_info['url'], headers=AMAZON_HEADERS, timeout=20)
         if resp.status_code == 200:
             soup = BeautifulSoup(resp.text, 'html.parser')
-            cards = soup.select('div[id="gridItemRoot"], div.zg-grid-general-faceout, div.p13n-grid-content, li.a-carousel-card')
+            cards = soup.select('div[id="gridItemRoot"], div.zg-grid-general-faceout, div.p13n-grid-content, li.a-carousel-card, [class*="p13n-sc-uncoverable-faceout"]')
             
             for card in cards:
                 if len(items) >= max_items:
@@ -170,7 +85,7 @@ def scrape_amazon_category(cat_info: dict, max_items: int = 10) -> list:
                 
                 if title_el and img_el:
                     title = title_el.get_text(strip=True)
-                    if len(title) < 5 or title.replace(',', '').isdigit():
+                    if len(title) < 4 or title.replace(',', '').isdigit():
                         continue
                     
                     raw_img = img_el.get('src', '')
@@ -195,62 +110,42 @@ def scrape_amazon_category(cat_info: dict, max_items: int = 10) -> list:
                         "tags": ["Amazon Hot", cat_info['name_en'], "Bestseller"],
                         "prompt_recipe": build_prompt_recipe(title, cat_info['name_en'], "Amazon")
                     })
-        else:
-            print(f"[!] [Amazon] HTTP {resp.status_code} for {cat_info['name_en']}")
     except Exception as e:
         print(f"[!] [Amazon] Error fetching {cat_info['name_en']}: {e}")
         
     print(f"  -> [Amazon] Extracted {len(items)} items for {cat_info['name_en']}")
     return items
 
-def scrape_shein_trends(playwright_browser, cat_info: dict, max_items: int = 15) -> list:
+def scrape_shein_trends(page, cat_info: dict, max_items: int = 15) -> list:
     items = []
     seen_images = set()
     print(f"[*] [SHEIN] Scraping {cat_info['name_cn']} ({cat_info['name_en']})...")
     
     try:
-        context = playwright_browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-            viewport={"width": 1440, "height": 900},
-            locale="en-US"
-        )
-        page = context.new_page()
-        # 拦截不必要的分析脚本，加快加载速度
-        page.route("**/*google*", lambda route: route.abort())
-        page.route("**/*facebook*", lambda route: route.abort())
-        
-        page.goto(cat_info['url'], wait_until="networkidle", timeout=30000)
-        
-        # 自动关闭可能出现的弹窗
-        try:
-            page.keyboard.press("Escape")
-        except Exception:
-            pass
-            
-        # 模拟真实向下滚动触发懒加载
-        for _ in range(3):
-            page.evaluate("window.scrollBy(0, 1000)")
-            time.sleep(1)
+        # 使用 domcontentloaded 并设置短超时，不阻塞网络长连接
+        page.goto(cat_info['url'], wait_until="domcontentloaded", timeout=15000)
+        page.wait_for_timeout(2000)
+        page.keyboard.press("Escape")
+        page.evaluate("window.scrollBy(0, 1200)")
+        page.wait_for_timeout(1500)
 
-        # 核心：直接在浏览器内部提取渲染好的商品数据
         shein_products = page.evaluate("""
             () => {
-                const results = [];
-                // 覆盖 SHEIN 最新的各类商品卡片容器
-                const elements = document.querySelectorAll('[data-goods-id], section.product-card, div.product-card, a[href*="-p-"]');
-                for (const el of elements) {
-                    const img = el.querySelector('img');
-                    const titleEl = el.querySelector('.goods-title-link, [class*="goods-title"], [class*="product-card-info__name"]');
+                const list = [];
+                const cards = document.querySelectorAll('section.product-card, div.product-card, div[class*="product-list__item"], [data-goods-id]');
+                for (const c of cards) {
+                    const img = c.querySelector('img');
+                    const titleEl = c.querySelector('.goods-title-link, [class*="goods-title"], [class*="product-card-info__name"]');
                     const title = titleEl ? titleEl.innerText.trim() : (img ? img.alt : '');
                     let src = '';
                     if (img) {
                         src = img.getAttribute('data-src') || img.getAttribute('src') || img.getAttribute('data-origin-src') || '';
                     }
-                    if (src && !src.includes('placeholder') && !src.includes('data:image')) {
-                        results.append({ title, src });
+                    if (src && !src.includes('placeholder')) {
+                        list.push({ title, src });
                     }
                 }
-                return results;
+                return list;
             }
         """)
 
@@ -264,7 +159,7 @@ def scrape_shein_trends(playwright_browser, cat_info: dict, max_items: int = 15)
             
             if not clean_img or clean_img in seen_images or len(clean_img) < 15:
                 continue
-            if not title or len(title) < 5:
+            if not title or len(title) < 4:
                 title = f"SHEIN Trending {cat_info['name_en']} Fashion"
 
             seen_images.add(clean_img)
@@ -283,8 +178,6 @@ def scrape_shein_trends(playwright_browser, cat_info: dict, max_items: int = 15)
                 "tags": ["SHEIN Hot", "Fast Fashion", cat_info['name_en']],
                 "prompt_recipe": build_prompt_recipe(title, cat_info['name_en'], "SHEIN")
             })
-            
-        context.close()
     except Exception as e:
         print(f"[!] [SHEIN] Error fetching {cat_info['name_en']}: {e}")
 
@@ -294,20 +187,31 @@ def scrape_shein_trends(playwright_browser, cat_info: dict, max_items: int = 15)
 def main():
     all_products = []
 
-    # 1. 抓取 Amazon 8 大服装核心品类 (每类 10 款)
+    # 1. 抓取 Amazon 8 大服装核心品类 (每类 20 款，共 160 款)
     for cat in AMAZON_CATEGORIES:
         cat_items = scrape_amazon_category(cat, max_items=20)
         all_products.extend(cat_items)
         time.sleep(1)
 
-    # 2. 抓取 SHEIN 8 大服装核心品类 (每类 10 款)
+    # 2. 抓取 SHEIN 8 大服装核心品类
     try:
         with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
+            browser = p.chromium.launch(
+                headless=True,
+                args=['--disable-blink-features=AutomationControlled', '--no-sandbox']
+            )
+            context = browser.new_context(
+                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+                viewport={"width": 1440, "height": 900},
+                locale="en-US"
+            )
+            page = context.new_page()
+            
             for cat in SHEIN_CATEGORIES:
-                cat_items = scrape_shein_trends(browser, cat, max_items=20)
+                cat_items = scrape_shein_trends(page, cat, max_items=15)
                 all_products.extend(cat_items)
-                time.sleep(0.5)
+                time.sleep(1)
+                
             browser.close()
     except Exception as e:
         print(f"[!] Playwright execution error: {e}")
