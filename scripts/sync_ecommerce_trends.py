@@ -203,62 +203,87 @@ def scrape_amazon_category(cat_info: dict, max_items: int = 10) -> list:
     print(f"  -> [Amazon] Extracted {len(items)} items for {cat_info['name_en']}")
     return items
 
-def scrape_shein_trends(playwright_browser, cat_info: dict, max_items: int = 10) -> list:
+def scrape_shein_trends(playwright_browser, cat_info: dict, max_items: int = 15) -> list:
     items = []
     seen_images = set()
     print(f"[*] [SHEIN] Scraping {cat_info['name_cn']} ({cat_info['name_en']})...")
     
     try:
         context = playwright_browser.new_context(
-            user_agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1",
-            viewport={"width": 390, "height": 844},
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+            viewport={"width": 1440, "height": 900},
             locale="en-US"
         )
         page = context.new_page()
-        page.goto(cat_info['url'], wait_until="domcontentloaded", timeout=30000)
+        # 拦截不必要的分析脚本，加快加载速度
+        page.route("**/*google*", lambda route: route.abort())
+        page.route("**/*facebook*", lambda route: route.abort())
         
-        page.evaluate("window.scrollBy(0, 800)")
-        time.sleep(2)
-
-        content = page.content()
-        soup = BeautifulSoup(content, 'html.parser')
+        page.goto(cat_info['url'], wait_until="networkidle", timeout=30000)
         
-        cards = soup.select('.product-list-item, .fsp-element, .product-card, div[class*="product-card"], a[class*="goods-title"]')
-        if not cards:
-            cards = soup.select('div[class*="product"], a[href*="-p-"]')
+        # 自动关闭可能出现的弹窗
+        try:
+            page.keyboard.press("Escape")
+        except Exception:
+            pass
+            
+        # 模拟真实向下滚动触发懒加载
+        for _ in range(3):
+            page.evaluate("window.scrollBy(0, 1000)")
+            time.sleep(1)
 
-        for card in cards:
+        # 核心：直接在浏览器内部提取渲染好的商品数据
+        shein_products = page.evaluate("""
+            () => {
+                const results = [];
+                // 覆盖 SHEIN 最新的各类商品卡片容器
+                const elements = document.querySelectorAll('[data-goods-id], section.product-card, div.product-card, a[href*="-p-"]');
+                for (const el of elements) {
+                    const img = el.querySelector('img');
+                    const titleEl = el.querySelector('.goods-title-link, [class*="goods-title"], [class*="product-card-info__name"]');
+                    const title = titleEl ? titleEl.innerText.trim() : (img ? img.alt : '');
+                    let src = '';
+                    if (img) {
+                        src = img.getAttribute('data-src') || img.getAttribute('src') || img.getAttribute('data-origin-src') || '';
+                    }
+                    if (src && !src.includes('placeholder') && !src.includes('data:image')) {
+                        results.append({ title, src });
+                    }
+                }
+                return results;
+            }
+        """)
+
+        for p in shein_products:
             if len(items) >= max_items:
                 break
             
-            img_el = card.select_one('img')
-            title = card.get_text(strip=True) or card.get('title') or ""
+            raw_img = p.get('src', '')
+            clean_img = clean_shein_image(raw_img)
+            title = p.get('title', '')
             
-            if img_el:
-                raw_img = img_el.get('data-src') or img_el.get('src') or ""
-                clean_img = clean_shein_image(raw_img)
-                
-                if not clean_img or 'placeholder' in clean_img or clean_img in seen_images:
-                    continue
-                if not title or len(title) < 4:
-                    title = f"SHEIN Trending {cat_info['name_en']} Item"
+            if not clean_img or clean_img in seen_images or len(clean_img) < 15:
+                continue
+            if not title or len(title) < 5:
+                title = f"SHEIN Trending {cat_info['name_en']} Fashion"
 
-                seen_images.add(clean_img)
-                idx = len(items) + 1
-                
-                items.append({
-                    "id": f"shein-{cat_info['key']}-{idx}",
-                    "rank": idx,
-                    "platform": "SHEIN",
-                    "category_key": cat_info['key'],
-                    "category_name": cat_info['name_cn'],
-                    "category_en": cat_info['name_en'],
-                    "title": title[:80],
-                    "image_url": clean_img,
-                    "heat_score": 99 - idx,
-                    "tags": ["SHEIN Trending", "Fast Fashion", cat_info['name_en']],
-                    "prompt_recipe": build_prompt_recipe(title, cat_info['name_en'], "SHEIN")
-                })
+            seen_images.add(clean_img)
+            idx = len(items) + 1
+            
+            items.append({
+                "id": f"shein-{cat_info['key']}-{idx}",
+                "rank": idx,
+                "platform": "SHEIN",
+                "category_key": cat_info['key'],
+                "category_name": cat_info['name_cn'],
+                "category_en": cat_info['name_en'],
+                "title": title[:80],
+                "image_url": clean_img,
+                "heat_score": 99 - idx,
+                "tags": ["SHEIN Hot", "Fast Fashion", cat_info['name_en']],
+                "prompt_recipe": build_prompt_recipe(title, cat_info['name_en'], "SHEIN")
+            })
+            
         context.close()
     except Exception as e:
         print(f"[!] [SHEIN] Error fetching {cat_info['name_en']}: {e}")
