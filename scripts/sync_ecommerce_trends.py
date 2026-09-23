@@ -12,7 +12,6 @@ HEADERS = {
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
 }
 
-# 欧美时尚核心服装细分类目（使用最稳定的标准 /gp/bestsellers 路径）
 CATEGORIES = [
     {
         "key": "dresses",
@@ -47,7 +46,6 @@ CATEGORIES = [
 ]
 
 def clean_image_url(raw_url: str) -> str:
-    """提取亚马逊图片 ID 并转换为国内直连的全球高清 CDN 地址"""
     if not raw_url:
         return ""
     match = re.search(r'/images/I/([A-Za-z0-9+%-]+?)(?:\._.*)?\.(jpg|png|jpeg)', raw_url)
@@ -56,7 +54,6 @@ def clean_image_url(raw_url: str) -> str:
     return raw_url
 
 def build_prompt_recipe(title: str, category_en: str) -> str:
-    """基于商品标题提炼适用于 AI 服装创作的高质量 Prompt"""
     clean_title = re.sub(r'[\(\)\[\],|]', ' ', title).strip()
     clean_title = ' '.join(clean_title.split()[:12])
     return (
@@ -74,14 +71,12 @@ def scrape_category(cat_info: dict, max_items: int = 8) -> list:
         resp = requests.get(cat_info['url'], headers=HEADERS, timeout=20)
         if resp.status_code == 200:
             soup = BeautifulSoup(resp.text, 'html.parser')
-            # 兼容多种亚马逊 Best Sellers 网格卡片结构
             cards = soup.select('div[id="gridItemRoot"], div.zg-grid-general-faceout, div.p13n-grid-content, li.a-carousel-card')
             
             for card in cards:
                 if len(items) >= max_items:
                     break
                 
-                # 兼容多版本标题选择器
                 title_el = (
                     card.select_one('div[class*="_cDEzb_p13n-sc-css-line-clamp-"]') or 
                     card.select_one('.a-link-normal span._cDEzb_p13n-sc-css-line-clamp-1_1FnBlock') or
@@ -92,21 +87,19 @@ def scrape_category(cat_info: dict, max_items: int = 8) -> list:
                 
                 if title_el and img_el:
                     title = title_el.get_text(strip=True)
-                    # 过滤纯数字等误抓评论数的情况
                     if len(title) < 5 or title.replace(',', '').isdigit():
                         continue
                     
                     raw_img = img_el.get('src', '')
                     clean_img = clean_image_url(raw_img)
                     
-                    # 过滤空图与重复图片
                     if not clean_img or clean_img in seen_images:
                         continue
                     
                     seen_images.add(clean_img)
                     idx = len(items) + 1
                     
-                    items.append({
+                    item_data = {
                         "id": f"hot-{cat_info['key']}-{idx}",
                         "rank": idx,
                         "platform": "Amazon Fashion US",
@@ -116,3 +109,42 @@ def scrape_category(cat_info: dict, max_items: int = 8) -> list:
                         "title": title,
                         "image_url": clean_img,
                         "heat_score": 100 - (idx * 2),
+                        "tags": ["Bestseller", cat_info['name_en'], "Spring/Summer 2026"],
+                        "prompt_recipe": build_prompt_recipe(title, cat_info['name_en'])
+                    }
+                    items.append(item_data)
+        else:
+            print(f"[!] Warning: HTTP {resp.status_code} for {cat_info['name_en']}")
+    except Exception as e:
+        print(f"[!] Error fetching {cat_info['name_en']}: {e}")
+        
+    print(f"  -> Extracted {len(items)} items for {cat_info['name_en']}")
+    return items
+
+def main():
+    all_products = []
+    for cat in CATEGORIES:
+        cat_items = scrape_category(cat, max_items=8)
+        all_products.extend(cat_items)
+        time.sleep(1.5)
+
+    if len(all_products) == 0 and os.path.exists("data/ecommerce_hot_products.json"):
+        print("[!] Scraping yielded no data, retaining existing file.")
+        return
+
+    payload = {
+        "updated_at": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "total": len(all_products),
+        "categories": [c["name_cn"] for c in CATEGORIES],
+        "items": all_products
+    }
+
+    os.makedirs("data", exist_ok=True)
+    out_file = "data/ecommerce_hot_products.json"
+    with open(out_file, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+
+    print(f"[+] Successfully saved {len(all_products)} trending fashion items to {out_file}!")
+
+if __name__ == "__main__":
+    main()
