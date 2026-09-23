@@ -124,7 +124,7 @@ def scrape_category(cat_info: dict, max_items: int = 8) -> list:
 def main():
     all_products = []
     for cat in CATEGORIES:
-        cat_items = scrape_category(cat, max_items=8)
+        cat_items = scrape_category(cat, max_items=25)
         all_products.extend(cat_items)
         time.sleep(1.5)
 
