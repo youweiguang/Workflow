@@ -2,9 +2,9 @@ name: Daily Fashion Trends Sync
 
 on:
   schedule:
-    # 每天北京时间凌晨 02:30 (UTC 18:30) 自动执行
+    # 每天北京时间凌晨 02:30 自动执行
     - cron: '30 18 * * *'
-  workflow_dispatch: # 支持网页端一键手动执行
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -22,11 +22,9 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: |
-          pip install requests beautifulsoup4 playwright
-          playwright install chromium --with-deps
+        run: pip install requests beautifulsoup4
 
-      - name: Run Multi-Platform Trend Collector
+      - name: Run Trend Collector
         run: python scripts/sync_ecommerce_trends.py
 
       - name: Commit and Push Updated Data
@@ -34,4 +32,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/ecommerce_hot_products.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(trends): auto-sync Amazon & SHEIN fashion bestsellers [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(trends): auto-sync latest fashion bestsellers [skip ci]" && git push)
