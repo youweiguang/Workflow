@@ -9,40 +9,40 @@ from bs4 import BeautifulSoup
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
     'Accept-Language': 'en-US,en;q=0.9',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
 }
 
-# 欧美时尚核心服装细分类目
+# 欧美时尚核心服装细分类目（使用最稳定的标准 /gp/bestsellers 路径）
 CATEGORIES = [
     {
         "key": "dresses",
         "name_en": "Dresses",
         "name_cn": "连衣裙与礼服",
-        "url": "https://www.amazon.com/Best-Sellers-Womens-Dresses/zgbs/fashion/1045024/"
+        "url": "https://www.amazon.com/gp/bestsellers/fashion/1045024/"
     },
     {
         "key": "tops",
         "name_en": "Tops & Shirts",
         "name_cn": "上衣与衬衫",
-        "url": "https://www.amazon.com/Best-Sellers-Womens-Tops-Tees-Shirts/zgbs/fashion/2368343011/"
+        "url": "https://www.amazon.com/gp/bestsellers/fashion/2368343011/"
     },
     {
         "key": "outerwear",
         "name_en": "Outerwear & Coats",
         "name_cn": "外套与风衣",
-        "url": "https://www.amazon.com/Best-Sellers-Womens-Outerwear-Jackets-Coats/zgbs/fashion/1044456/"
+        "url": "https://www.amazon.com/gp/bestsellers/fashion/1044456/"
     },
     {
         "key": "skirts",
         "name_en": "Skirts",
         "name_cn": "半身裙",
-        "url": "https://www.amazon.com/Best-Sellers-Womens-Skirts/zgbs/fashion/1045022/"
+        "url": "https://www.amazon.com/gp/bestsellers/fashion/1045022/"
     },
     {
         "key": "sweaters",
         "name_en": "Sweaters & Knits",
         "name_cn": "毛衣与针织衫",
-        "url": "https://www.amazon.com/Best-Sellers-Womens-Sweaters/zgbs/fashion/1044442/"
+        "url": "https://www.amazon.com/gp/bestsellers/fashion/1044442/"
     }
 ]
 
@@ -57,36 +57,58 @@ def clean_image_url(raw_url: str) -> str:
 
 def build_prompt_recipe(title: str, category_en: str) -> str:
     """基于商品标题提炼适用于 AI 服装创作的高质量 Prompt"""
-    # 清洗标题中的多余品牌名或促销符号
-    clean_title = re.sub(r'[\(\)\[\],]', ' ', title).strip()
+    clean_title = re.sub(r'[\(\)\[\],|]', ' ', title).strip()
     clean_title = ' '.join(clean_title.split()[:12])
     return (
         f"commercial fashion catalog photography of a model wearing {clean_title}, "
-        f"high-end {category_en} editorial style, clean background, ultra-detailed fabric textures, "
+        f"high-end {category_en} editorial style, clean studio background, ultra-detailed fabric textures, "
         f"professional studio lighting, 8k resolution, photorealistic"
     )
 
-def scrape_category(cat_info: dict, max_items: int = 10) -> list:
+def scrape_category(cat_info: dict, max_items: int = 8) -> list:
     items = []
+    seen_images = set()
     print(f"[*] Scraping {cat_info['name_cn']} ({cat_info['name_en']})...")
+    
     try:
         resp = requests.get(cat_info['url'], headers=HEADERS, timeout=20)
         if resp.status_code == 200:
             soup = BeautifulSoup(resp.text, 'html.parser')
-            cards = soup.select('.zg-grid-general-faceout, [id="gridItemRoot"]')[:max_items]
+            # 兼容多种亚马逊 Best Sellers 网格卡片结构
+            cards = soup.select('div[id="gridItemRoot"], div.zg-grid-general-faceout, div.p13n-grid-content, li.a-carousel-card')
             
-            for idx, card in enumerate(cards):
-                title_el = card.select_one('div[class*="_cDEzb_p13n-sc-css-line-clamp-"]') or card.select_one('.a-link-normal span')
+            for card in cards:
+                if len(items) >= max_items:
+                    break
+                
+                # 兼容多版本标题选择器
+                title_el = (
+                    card.select_one('div[class*="_cDEzb_p13n-sc-css-line-clamp-"]') or 
+                    card.select_one('.a-link-normal span._cDEzb_p13n-sc-css-line-clamp-1_1FnBlock') or
+                    card.select_one('.p13n-sc-truncate-desktop-type2') or
+                    card.select_one('.a-link-normal span')
+                )
                 img_el = card.select_one('img')
                 
                 if title_el and img_el:
                     title = title_el.get_text(strip=True)
+                    # 过滤纯数字等误抓评论数的情况
+                    if len(title) < 5 or title.replace(',', '').isdigit():
+                        continue
+                    
                     raw_img = img_el.get('src', '')
                     clean_img = clean_image_url(raw_img)
                     
+                    # 过滤空图与重复图片
+                    if not clean_img or clean_img in seen_images:
+                        continue
+                    
+                    seen_images.add(clean_img)
+                    idx = len(items) + 1
+                    
                     items.append({
-                        "id": f"hot-{cat_info['key']}-{idx+1}",
-                        "rank": idx + 1,
+                        "id": f"hot-{cat_info['key']}-{idx}",
+                        "rank": idx,
                         "platform": "Amazon Fashion US",
                         "category_key": cat_info['key'],
                         "category_name": cat_info['name_cn'],
@@ -94,40 +116,3 @@ def scrape_category(cat_info: dict, max_items: int = 10) -> list:
                         "title": title,
                         "image_url": clean_img,
                         "heat_score": 100 - (idx * 2),
-                        "tags": ["Bestseller", cat_info['name_en'], "Spring/Summer 2026"],
-                        "prompt_recipe": build_prompt_recipe(title, cat_info['name_en'])
-                    })
-        else:
-            print(f"[!] Warning: HTTP {resp.status_code} for {cat_info['name_en']}")
-    except Exception as e:
-        print(f"[!] Error fetching {cat_info['name_en']}: {e}")
-    return items
-
-def main():
-    all_products = []
-    for cat in CATEGORIES:
-        cat_items = scrape_category(cat, max_items=8)
-        all_products.extend(cat_items)
-        time.sleep(1.5) # 礼貌延时
-
-    # 容灾兜底：若全网拦截则保持原有/内置数据
-    if len(all_products) == 0 and os.path.exists("data/ecommerce_hot_products.json"):
-        print("[!] Scraping failed, keeping existing dataset.")
-        return
-
-    payload = {
-        "updated_at": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "total": len(all_products),
-        "categories": [c["name_cn"] for c in CATEGORIES],
-        "items": all_products
-    }
-
-    os.makedirs("data", exist_ok=True)
-    out_file = "data/ecommerce_hot_products.json"
-    with open(out_file, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
-
-    print(f"[+] Successfully saved {len(all_products)} trending fashion items to {out_file}!")
-
-if __name__ == "__main__":
-    main()
