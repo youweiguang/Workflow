@@ -1,0 +1,36 @@
+name: Daily Fashion Trends Sync
+
+on:
+  schedule:
+    # 每天 UTC 18:30 (北京时间凌晨 02:30) 自动执行
+    - cron: '30 18 * * *'
+  workflow_dispatch: # 随时在网页端一键手动触发
+
+# 赋予自动 commit 的写权限
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run Trend Collector
+        run: python scripts/sync_ecommerce_trends.py
+
+      - name: Commit and Push Updated Data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ecommerce_hot_products.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(trends): auto-sync latest ecommerce fashion bestsellers [skip ci]" && git push)
