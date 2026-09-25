@@ -20,8 +20,10 @@ CATEGORIES = [
     {"key": "skirts", "name_en": "Skirts", "name_cn": "半身裙", "url": "https://www.amazon.com/gp/bestsellers/fashion/1045022/"},
     {"key": "sweaters", "name_en": "Sweaters & Knits", "name_cn": "毛衣与针织衫", "url": "https://www.amazon.com/gp/bestsellers/fashion/1044442/"},
     {"key": "pants", "name_en": "Pants & Jeans", "name_cn": "裤装与牛仔", "url": "https://www.amazon.com/gp/bestsellers/fashion/1048184/"},
-    {"key": "activewear", "name_en": "Activewear & Sets", "name_cn": "运动与套装", "url": "https://www.amazon.com/gp/bestsellers/fashion/1045028/"},
-    {"key": "swimwear", "name_en": "Swimwear & Beach", "name_cn": "泳装与沙滩服", "url": "https://www.amazon.com/gp/bestsellers/fashion/1046674/"}
+    # 修正：精准定位女性爆款运动/瑜伽套装
+    {"key": "activewear", "name_en": "Activewear & Sets", "name_cn": "运动与套装", "url": "https://www.amazon.com/gp/bestsellers/fashion/2374290011/"},
+    # 修正：精准定位女性比基尼、连体泳衣与沙滩罩衫
+    {"key": "swimwear", "name_en": "Swimwear & Beach", "name_cn": "女士泳装与沙滩服", "url": "https://www.amazon.com/gp/bestsellers/fashion/1046622/"}
 ]
 
 def clean_amazon_image(raw_url: str) -> str:
