@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-24T21:38:41Z",
-  "total": 140,
+  "updated_at": "2026-09-25T02:58:45Z",
+  "total": 160,
   "platforms": [
     "Amazon Fashion"
   ],
@@ -12,7 +12,7 @@
     "毛衣与针织衫",
     "裤装与牛仔",
     "运动与套装",
-    "泳装与沙滩服"
+    "女士泳装与沙滩服"
   ],
   "items": [
     {
@@ -209,15 +209,15 @@
       "category_key": "dresses",
       "category_name": "连衣裙与礼服",
       "category_en": "Dresses",
-      "title": "WIHOLL Summer Dresses Cap Sleeve Crewneck Maxi Long Casual Dress with Pockets Beach Vacation Sundresses 2026 Trendy",
-      "image_url": "https://m.media-amazon.com/images/I/61MEFOSEgtL.jpg",
+      "title": "PRETTYGARDEN Women Off the Shoulder Ruched Bodycon Mini Dress | Draped Sleeves, Soft Stretchy Mesh, Spring Summer Outfits for Cocktail Party, Wedding, Date Night, Graduation, Homecoming",
+      "image_url": "https://m.media-amazon.com/images/I/71Jn8uI1s7L.jpg",
       "heat_score": 76,
       "tags": [
         "Amazon Bestseller",
         "Dresses",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing WIHOLL Summer Dresses Cap Sleeve Crewneck Maxi Long Casual Dress with Pockets, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing PRETTYGARDEN Women Off the Shoulder Ruched Bodycon Mini Dress Draped Sleeves Soft, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-dresses-13",
@@ -226,15 +226,15 @@
       "category_key": "dresses",
       "category_name": "连衣裙与礼服",
       "category_en": "Dresses",
-      "title": "PRETTYGARDEN Women Off the Shoulder Ruched Bodycon Mini Dress | Draped Sleeves, Soft Stretchy Mesh, Spring Summer Outfits for Cocktail Party, Wedding, Date Night, Graduation, Homecoming",
-      "image_url": "https://m.media-amazon.com/images/I/71Jn8uI1s7L.jpg",
+      "title": "WIHOLL Summer Dresses Cap Sleeve Crewneck Maxi Long Casual Dress with Pockets Beach Vacation Sundresses 2026 Trendy",
+      "image_url": "https://m.media-amazon.com/images/I/61MEFOSEgtL.jpg",
       "heat_score": 74,
       "tags": [
         "Amazon Bestseller",
         "Dresses",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing PRETTYGARDEN Women Off the Shoulder Ruched Bodycon Mini Dress Draped Sleeves Soft, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing WIHOLL Summer Dresses Cap Sleeve Crewneck Maxi Long Casual Dress with Pockets, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-dresses-14",
@@ -2056,344 +2056,684 @@
       "prompt_recipe": "commercial fashion catalog photography of a model wearing KIRUNDO Wide Leg Pants for Women 2026 Dressy High Waisted Button Trousers, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
+      "id": "amz-activewear-1",
+      "rank": 1,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "ANRABESS Women 2 Piece Set Sweatsuits Lounge Fall Outfits | Quarter Zip Pullover Wide Leg Pants & Pockets Matching Set,Casual Travel Fashion Airport Vacation Clothing,Sweat Track Suits",
+      "image_url": "https://m.media-amazon.com/images/I/51RqYmL9tML.jpg",
+      "heat_score": 98,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing ANRABESS Women 2 Piece Set Sweatsuits Lounge Fall Outfits Quarter Zip Pullover, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-2",
+      "rank": 2,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "ASUIU Sweatpants Set Women Tall Winter Oversized Hoodie Lounge Set | 2 Piece Matching Sets, Winter Lounge Set, Comfy Sweatsuits, Fashion, Plus Size, Pants Suit, Workout, Athletic, Loungewear",
+      "image_url": "https://m.media-amazon.com/images/I/51jiI12ZA7L.jpg",
+      "heat_score": 96,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing ASUIU Sweatpants Set Women Tall Winter Oversized Hoodie Lounge Set 2 Piece, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-3",
+      "rank": 3,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "PRETTYGARDEN Women's 2 Piece Matching Lounge Set Sweatsuits | Zip Up Sweatshirt, Long Sleeve Pullover Tops, Elastic Waist Drawstring, Wide Leg Pants Pocket, Fall Tracksuit, Spring Outfits",
+      "image_url": "https://m.media-amazon.com/images/I/61mVGvGfGKL.jpg",
+      "heat_score": 94,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing PRETTYGARDEN Women's 2 Piece Matching Lounge Set Sweatsuits Zip Up Sweatshirt Long, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-4",
+      "rank": 4,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "AUTOMET Womens 2 Piece Lounge Sweat Sets Fall Fashion Matching Sweatsuits | Oversized Hoodies,Kangaroo Pocket,Drop Shoulder,Side Pockets Sweatpants",
+      "image_url": "https://m.media-amazon.com/images/I/51XW04Z8p-L.jpg",
+      "heat_score": 92,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing AUTOMET Womens 2 Piece Lounge Sweat Sets Fall Fashion Matching Sweatsuits Oversized, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-5",
+      "rank": 5,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "ASUIU Two Piece Sweatsuit Sets for Women Crewneck Sweatshirt and Pants Set | Matching Sweat Sets for Women Crewneck Long Sleeve Tracksuit Wide Leg Sweatpants Conjunto De Pants Para Mujer",
+      "image_url": "https://m.media-amazon.com/images/I/61jFbSDa2SL.jpg",
+      "heat_score": 90,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing ASUIU Two Piece Sweatsuit Sets for Women Crewneck Sweatshirt and Pants Set, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-6",
+      "rank": 6,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "ZFLM Casual Workout Two Piece Outfits for Women Short Sleeve Crop High Waist Foldover Flare Pants Tracksuit Sets Streetwear",
+      "image_url": "https://m.media-amazon.com/images/I/51w5zLPHDuL.jpg",
+      "heat_score": 88,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing ZFLM Casual Workout Two Piece Outfits for Women Short Sleeve Crop High, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-7",
+      "rank": 7,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "PRETTYGARDEN Airport Travel Outfit Women Fall 2 Piece Matching Lounge Sets | Track Sweat Suits, Casual Going Out Brunch Outfits, Spring Cruise Clothes, Long Sleeve T Shirts, Comfy Jogger Pants, Pockets",
+      "image_url": "https://m.media-amazon.com/images/I/61m24c2iQRL.jpg",
+      "heat_score": 86,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing PRETTYGARDEN Airport Travel Outfit Women Fall 2 Piece Matching Lounge Sets Track, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-8",
+      "rank": 8,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "SUUKSESS Women 2 Piece Workout Sets High Waisted Tummy Control Biker Shorts Halter Padded Tank Tops",
+      "image_url": "https://m.media-amazon.com/images/I/61pJHKH82KL.jpg",
+      "heat_score": 84,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing SUUKSESS Women 2 Piece Workout Sets High Waisted Tummy Control Biker Shorts, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-9",
+      "rank": 9,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "PINSPARK 2 Piece Sets for Women 1/2 Zip Sweatsuit 2026 Matching Outfit Fall | Lightweight Air Layer Fabric, Loose Fit Sweatshirt, Straight Leg Pants with Pockets, Soft Lounge Sets, Airport Outfits Women",
+      "image_url": "https://m.media-amazon.com/images/I/61nc9hITqnL.jpg",
+      "heat_score": 82,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing PINSPARK 2 Piece Sets for Women 1/2 Zip Sweatsuit 2026 Matching Outfit, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-10",
+      "rank": 10,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "ASUIU Women's Matching Sweatsuit Sets Crewneck Sweatshirt and Pants Set | Womens Matching Sweat Set Wide Leg Sweatpants Long Sleeve Crewneck Tracksuit Set De Viaje Para Mujer",
+      "image_url": "https://m.media-amazon.com/images/I/61LtuXfi9jL.jpg",
+      "heat_score": 80,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing ASUIU Women's Matching Sweatsuit Sets Crewneck Sweatshirt and Pants Set Womens Matching, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-11",
+      "rank": 11,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "PRETTYGARDEN 2 Piece Lounge Sets for Women Matching Sweatsuits | Oversized Hoodies & Baggy Wide Leg Sweatpants,Casual Sweat Set,Workout Tracksuit,Airport Travel Outfits,Fashion Fall Clothes",
+      "image_url": "https://m.media-amazon.com/images/I/61T7WbH4UvL.jpg",
+      "heat_score": 78,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing PRETTYGARDEN 2 Piece Lounge Sets for Women Matching Sweatsuits Oversized Hoodies &, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-12",
+      "rank": 12,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "LILLUSORY 2 Piece Lounge Sets for Women 2026 Fall Fashion Outfits Sweat Set | Airport Travel Outfits, Athleisure Workout Set SweatSuits, Winter Fall Clothes, Two Piece Activewear Matching Loungewear Set",
+      "image_url": "https://m.media-amazon.com/images/I/51LjKrBRFUL.jpg",
+      "heat_score": 76,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing LILLUSORY 2 Piece Lounge Sets for Women 2026 Fall Fashion Outfits Sweat, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-13",
+      "rank": 13,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "Trendy Queen Women's Mock Neck 2 Piece Sweat Sets Sweatsuits Fall Outfits | Two Piece Matching Set, Airport Travel Outfits, Fall Winter Fashion Clothes 2026, Oversized Sweatshirts & Wide Leg Sweatpants",
+      "image_url": "https://m.media-amazon.com/images/I/51NMt3HadYL.jpg",
+      "heat_score": 74,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Trendy Queen Women's Mock Neck 2 Piece Sweat Sets Sweatsuits Fall Outfits, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-14",
+      "rank": 14,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "PINSPARK 2 Piece Sets for Women 1/4 Zip Lounge Matching Set Fall Outfits | Petite& Regular& Tall, Oversized Sweatshirt, Wide Leg Pants with Drawstring Pockets, Sweatsuit, 2026 Travel Airport Tracksuit",
+      "image_url": "https://m.media-amazon.com/images/I/61vnIvS5ZQL.jpg",
+      "heat_score": 72,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing PINSPARK 2 Piece Sets for Women 1/4 Zip Lounge Matching Set Fall, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-15",
+      "rank": 15,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "Workout Sets for Women 2 Pieces Seamless Yoga Legging Removable Bra Padding | Two Piece High-Waisted Butter Soft Activewear Plus Size Clothing Deportivo Para Mujer, Sports Supportive Cute Casual Clothes",
+      "image_url": "https://m.media-amazon.com/images/I/61+WyxIzCGL.jpg",
+      "heat_score": 70,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Workout Sets for Women 2 Pieces Seamless Yoga Legging Removable Bra Padding, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-16",
+      "rank": 16,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "AUTOMET Womens Mock Neck 2 Piece Lounge Sweat Sets Matching Fall Fashion | Drawstring Sweatshirts,Wide Leg Sweatpants,Elastic Waistband,Side Pockets",
+      "image_url": "https://m.media-amazon.com/images/I/51R9sQGbDjL.jpg",
+      "heat_score": 68,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing AUTOMET Womens Mock Neck 2 Piece Lounge Sweat Sets Matching Fall Fashion, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-17",
+      "rank": 17,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "AUXDIO Women 2 Piece Workout Sets Zip Up Hoodie Tracksuit Jogger Pants | Soft Stretch Fabric, Comfortable Tracksuit Set for Workout, Travel, Lounge and Everyday Casual Wear",
+      "image_url": "https://m.media-amazon.com/images/I/61MW-yyfL4L.jpg",
+      "heat_score": 66,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing AUXDIO Women 2 Piece Workout Sets Zip Up Hoodie Tracksuit Jogger Pants, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-18",
+      "rank": 18,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "XIEERDUO Lounge Sets for Women 2025 Sweatsuit 2 Piece Outfits Sweatshirt Wide Leg Sweatpant Tracksuit Matching Set",
+      "image_url": "https://m.media-amazon.com/images/I/61jeYlq9j+L.jpg",
+      "heat_score": 64,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing XIEERDUO Lounge Sets for Women 2025 Sweatsuit 2 Piece Outfits Sweatshirt Wide, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-19",
+      "rank": 19,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "LILLUSORY Women 2 Piece Matching Lounge Sweater Sets 2026 Fall Outfit | Airport Travel Clothes, Fashion Loungewear, Trendy Winter Clothing, Casual Sweatsuit, Cute Sweat Suit, Comfy Lounge Wear",
+      "image_url": "https://m.media-amazon.com/images/I/61fX8FqSBkL.jpg",
+      "heat_score": 62,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing LILLUSORY Women 2 Piece Matching Lounge Sweater Sets 2026 Fall Outfit Airport, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-activewear-20",
+      "rank": 20,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "WIHOLL Two Piece Sets for Women Travel Vacation Outfits Fashion Tracksuit | Women Travel Sweatsuit Wide Leg Pants Long Sleeve 2Pcs Outfit Fashion Clothing",
+      "image_url": "https://m.media-amazon.com/images/I/81ip8076dTL.jpg",
+      "heat_score": 60,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing WIHOLL Two Piece Sets for Women Travel Vacation Outfits Fashion Tracksuit Women, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
       "id": "amz-swimwear-1",
       "rank": 1,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "COOFANDY Mens Swim Trunks Bathing Suit Swim Brief Square Leg Board Short",
-      "image_url": "https://m.media-amazon.com/images/I/71zxH0IgbJL.jpg",
+      "title": "CHICGAL Womens Floral Kimono Cardigan Beach Cover Up Casual Summer Tops | 2026 Puff Sleeve Open Front Chiffon Outfit,Hawaiian Shirt,Beach Vacation Swimwear, Plus Top,Boho ladies Blouse,Cruise Resort",
+      "image_url": "https://m.media-amazon.com/images/I/81-R1wejIFL.jpg",
       "heat_score": 98,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing COOFANDY Mens Swim Trunks Bathing Suit Swim Brief Square Leg Board Short, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing CHICGAL Womens Floral Kimono Cardigan Beach Cover Up Casual Summer Tops 2026, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-2",
       "rank": 2,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "AIMPACT Solid Men's Swim Briefs Quick Dry Swimwear with Drawstring | Substantial, Stretchy, Linerless, Athletic Cut, Zero-Chafe Comfort, for Pool & Beach",
-      "image_url": "https://m.media-amazon.com/images/I/71lNcwqYOsL.jpg",
+      "title": "Vicarly Women Poncho Shawl Top Beach Cover Up 3XS-6XL | Sheer Vacation Festival Swimsuit Crochet Knit Mesh Plus Shrug Cape Y2K Asymmetrica Off the Shoulder Boho Summer Concert Rave",
+      "image_url": "https://m.media-amazon.com/images/I/6175qQTzcZL.jpg",
       "heat_score": 96,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing AIMPACT Solid Men's Swim Briefs Quick Dry Swimwear with Drawstring Substantial Stretchy, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Vicarly Women Poncho Shawl Top Beach Cover Up 3XS-6XL Sheer Vacation Festival, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-3",
       "rank": 3,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "Summer Code Mens Solid Swim Briefs Drawstring Bikini Sport Swimsuit",
-      "image_url": "https://m.media-amazon.com/images/I/616D0cynGJL.jpg",
+      "title": "Women's Tummy Control One Piece Swimsuit Push Up Full Coverage Bathing Suit | V-Neck Twist Front, Low-Back Design, Adjustable Straps, Removable Pads, Full Coverage, Long-Torso Fit, Beach and Pool Days",
+      "image_url": "https://m.media-amazon.com/images/I/61rOq5G9G8L.jpg",
       "heat_score": 94,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Summer Code Mens Solid Swim Briefs Drawstring Bikini Sport Swimsuit, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Women's Tummy Control One Piece Swimsuit Push Up Full Coverage Bathing Suit, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-4",
       "rank": 4,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "AIMPACT Printed Men's Swim Briefs Quick Dry Bathing Suit with Drawstring | Lightweight, Stretchy, Linerless, Fade-Resistant, Zero-Chafe Comfort, for Relaxing Pool & Beach",
-      "image_url": "https://m.media-amazon.com/images/I/71SXqXSok8L.jpg",
+      "title": "Women Sheer Poncho Top Lightweight Knit Crochet Shrug Bolero Mesh Batwing Sleeve Sweater Cover Up Beachwear",
+      "image_url": "https://m.media-amazon.com/images/I/712kufG2sNL.jpg",
       "heat_score": 92,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing AIMPACT Printed Men's Swim Briefs Quick Dry Bathing Suit with Drawstring Lightweight, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Women Sheer Poncho Top Lightweight Knit Crochet Shrug Bolero Mesh Batwing Sleeve, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-5",
       "rank": 5,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "Speedo Mens Swimsuit Brief Endurance+ Solid Adult",
-      "image_url": "https://m.media-amazon.com/images/I/61dA9Tj7K1L.jpg",
+      "title": "Kaftan Dresses for Women Plus Size Bathing Suit Cover up Caftan Maxi Beach Dresses",
+      "image_url": "https://m.media-amazon.com/images/I/61miE3qX03L.jpg",
       "heat_score": 90,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Speedo Mens Swimsuit Brief Endurance+ Solid Adult, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Kaftan Dresses for Women Plus Size Bathing Suit Cover up Caftan Maxi, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-6",
       "rank": 6,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "Ekouaer Mens Tight Swim Trunks Quick Dry Swim Briefs 5\" Sexy Swimwear Zip Pockets Bathing Suit with Mesh Lining",
-      "image_url": "https://m.media-amazon.com/images/I/714iwbYF7WL.jpg",
+      "title": "Blooming Jelly Women Mesh One Piece Swim Dress Tummy Control Swimsuit | Sheer Sarong Wraps Modest Bathing Suit V Neck Swimdress Slimming Swimming Suits Drawstring Swimsuits",
+      "image_url": "https://m.media-amazon.com/images/I/811Ph1h4rjL.jpg",
       "heat_score": 88,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Ekouaer Mens Tight Swim Trunks Quick Dry Swim Briefs 5\" Sexy Swimwear, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Blooming Jelly Women Mesh One Piece Swim Dress Tummy Control Swimsuit Sheer, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-7",
       "rank": 7,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "EASEJUICY Mens Bikini Swimwear Sexy Swimsuit Gradient Design Swim Briefs with Drawstring Low Waist Bathing Suit",
-      "image_url": "https://m.media-amazon.com/images/I/616bOpc1HuS.jpg",
+      "title": "Yanziliu Women Kaftan Dresses Plus Size V-Neck Batwing Sleeves Beach Cover Up Summer Floral Print Caftan Dress",
+      "image_url": "https://m.media-amazon.com/images/I/81-f8BOsHsL.jpg",
       "heat_score": 86,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing EASEJUICY Mens Bikini Swimwear Sexy Swimsuit Gradient Design Swim Briefs with Drawstring, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Yanziliu Women Kaftan Dresses Plus Size V-Neck Batwing Sleeves Beach Cover Up, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-8",
       "rank": 8,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "Eagerlove Mens Bikini Underwear Stylish Leopard Print Briefs Low Rise Animal Pattern Trunks with Contoured Pouch",
-      "image_url": "https://m.media-amazon.com/images/I/71dTn3Dn4sL.jpg",
+      "title": "KEYLORTING Plus Size Kaftan Dress Women, African Moo Moo Print Caftan, Batwing Dress, Beach Cover Up for Party and Loungewear",
+      "image_url": "https://m.media-amazon.com/images/I/71LXGeqnOVL.jpg",
       "heat_score": 84,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Eagerlove Mens Bikini Underwear Stylish Leopard Print Briefs Low Rise Animal Pattern, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing KEYLORTING Plus Size Kaftan Dress Women African Moo Moo Print Caftan Batwing, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-9",
       "rank": 9,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "Arcweg Men's Swimming Trunks Briefs Low Waist with Removable Pad Swimwear Elastic Beach Shorts Boxers Underwear",
-      "image_url": "https://m.media-amazon.com/images/I/71dLQBGzdHL.jpg",
+      "title": "Summer Mae Blouson Women's Tankini Swimsuits Tummy Control Bathing Suits | Swim shorts with pockets,modest top with removable padded,2-piece swimwear 2026 for beach,pool,cruise",
+      "image_url": "https://m.media-amazon.com/images/I/61MEutimDkL.jpg",
       "heat_score": 82,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Arcweg Men's Swimming Trunks Briefs Low Waist with Removable Pad Swimwear Elastic, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Summer Mae Blouson Women's Tankini Swimsuits Tummy Control Bathing Suits Swim shorts, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-10",
       "rank": 10,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "U.S. POLO ASSN. Mens Bikini Briefs 6 Pack Cotton Underwear with Pouch | Sleek String and Classic Cuts, Soft Breathable Stretch, Covered Waistband, Smooth Everyday Support and Lift",
-      "image_url": "https://m.media-amazon.com/images/I/71PypuJCzaL.jpg",
+      "title": "G Gradual Women's 7\" Long Swim Board Shorts with Liner Pockets | High Waisted, Quick Dry, UPF 50+ Sun Protection Shorts for Swimming, Beach, Surfing",
+      "image_url": "https://m.media-amazon.com/images/I/71CcUtWAPkL.jpg",
       "heat_score": 80,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing U.S. POLO ASSN. Mens Bikini Briefs 6 Pack Cotton Underwear with Pouch, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing G Gradual Women's 7\" Long Swim Board Shorts with Liner Pockets High, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-11",
       "rank": 11,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "COOFANDY Men's Square Leg Swim Briefs Athletic Quick Dry Bathing Suit Square Leg Board Short for Men",
-      "image_url": "https://m.media-amazon.com/images/I/71aU0x0Y0ZL.jpg",
+      "title": "2 Pieces Women Beach Sarong Bathing Suit Sheer Bikini Swimsuit Cover Ups | CHICGAL Chiffon Bikini Swimwear Pareos, Casual Beachwear Wrap Short Skirt, Summer Pool Vocation Outfits 2026",
+      "image_url": "https://m.media-amazon.com/images/I/51kljI5UrtL.jpg",
       "heat_score": 78,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing COOFANDY Men's Square Leg Swim Briefs Athletic Quick Dry Bathing Suit Square, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing 2 Pieces Women Beach Sarong Bathing Suit Sheer Bikini Swimsuit Cover Ups, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-12",
       "rank": 12,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "FIROTTII Men's Thong Swimwear Swimsuit Quick-Dry Sexy Bikini Briefs | low rise,sexy thong design,comfort,ultra-light,solid color and animal print,inner drawstring,for party,beach,pool,vacation",
-      "image_url": "https://m.media-amazon.com/images/I/71qM-Sqj8bL.jpg",
+      "title": "Holipick Women Tummy Control One Piece Swimsuits Strapless Swimwear | Chic Bandeau, Ruched Front, Full Coverage, Push Up Removable Pads, Removable Halter Straps, Beach Pool Resort",
+      "image_url": "https://m.media-amazon.com/images/I/71Hfh-9gHoL.jpg",
       "heat_score": 76,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing FIROTTII Men's Thong Swimwear Swimsuit Quick-Dry Sexy Bikini Briefs low rise sexy, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Holipick Women Tummy Control One Piece Swimsuits Strapless Swimwear Chic Bandeau Ruched, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-13",
       "rank": 13,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "MIZOK Men's Sexy Low Rise Swimsuits Bikini Swimming Briefs Swimwear with Adjustable Drawstring",
-      "image_url": "https://m.media-amazon.com/images/I/51spIfaLpvL.jpg",
+      "title": "Blooming Jelly Womens One Piece Swimsuit Tummy Control Bathing Suit 2026 | Gold Metal, V Neck, Removable Padded, Adjustable Straps, Tie Knot, Full Coverage, Family Trip, Water Park",
+      "image_url": "https://m.media-amazon.com/images/I/717Gea7ubuL.jpg",
       "heat_score": 74,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing MIZOK Men's Sexy Low Rise Swimsuits Bikini Swimming Briefs Swimwear with Adjustable, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Blooming Jelly Womens One Piece Swimsuit Tummy Control Bathing Suit 2026 Gold, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-14",
       "rank": 14,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "Taddlee Men's Swimwear Sexy Swim Briefs Bikini Board Surf Shorts Boxer Swimsuits",
-      "image_url": "https://m.media-amazon.com/images/I/71cxRPLH+wL.jpg",
+      "title": "Arolina Tankini Swimsuits for Women Tummy Control Two Piece Bathing Suits | Modest Swimwear, Flowy, Removable Padded, Adjustable Straps, High Waisted, Loose Fit, Scoop Neck",
+      "image_url": "https://m.media-amazon.com/images/I/6194V9RcD6L.jpg",
       "heat_score": 72,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Taddlee Men's Swimwear Sexy Swim Briefs Bikini Board Surf Shorts Boxer Swimsuits, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Arolina Tankini Swimsuits for Women Tummy Control Two Piece Bathing Suits Modest, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-15",
       "rank": 15,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "Mens Gradient Swim Briefs Stylish Comfortable Bikini Swimwear Sexy Micro Swimsuit Bathing Suit",
-      "image_url": "https://m.media-amazon.com/images/I/71WM4i2laPL.jpg",
+      "title": "Women Sheer Poncho Top Lightweight Knit Mesh Beach Cover Up, Summer Poncho Shirt Shawl for Vacation Festival Outfits",
+      "image_url": "https://m.media-amazon.com/images/I/81ZANcV51eL.jpg",
       "heat_score": 70,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Mens Gradient Swim Briefs Stylish Comfortable Bikini Swimwear Sexy Micro Swimsuit Bathing, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Women Sheer Poncho Top Lightweight Knit Mesh Beach Cover Up Summer Poncho, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-16",
       "rank": 16,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "MIZOK Mens Solid Swim Brief Low Rise Swimsuit",
-      "image_url": "https://m.media-amazon.com/images/I/61ufpj+a8uL.jpg",
+      "title": "Women's 3 Piece Tankini Swimsuit Tummy Control with Bra Pocket Boy Shorts | Modest Bathing Suit, Athletic Style, Strappy-Back Support, High-Waist Fit, Built-In Brief, Side Pockets, Beach Swim Days",
+      "image_url": "https://m.media-amazon.com/images/I/716MQ9pXRnL.jpg",
       "heat_score": 68,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing MIZOK Mens Solid Swim Brief Low Rise Swimsuit, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Women's 3 Piece Tankini Swimsuit Tummy Control with Bra Pocket Boy Shorts, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-17",
       "rank": 17,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "Arjen Kroos Men's Sexy Swim Briefs Printed Swimsuit Beach Swimwear Bikini | Quick-Dry Swim Fabric, Soft & Breathable, Low-Rise with Drawstring, Cool All Day, for Beach, Pool, Surf, Dive, Gym, Daily",
-      "image_url": "https://m.media-amazon.com/images/I/61BBjWGsRdL.jpg",
+      "title": "IMAGEKOPE Women's Plus Size Loose Fit Moroccan Print V-Neck Batwing Kaftan Beach Dress Bathing Suit Cover Up",
+      "image_url": "https://m.media-amazon.com/images/I/71vmzP6jyJL.jpg",
       "heat_score": 66,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Arjen Kroos Men's Sexy Swim Briefs Printed Swimsuit Beach Swimwear Bikini Quick-Dry, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing IMAGEKOPE Women's Plus Size Loose Fit Moroccan Print V-Neck Batwing Kaftan Beach, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-18",
       "rank": 18,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "MIZOK Men's Swimwear Bikini Swimming Briefs Drawstring Swimsuits Board Surf Shorts Trunks",
-      "image_url": "https://m.media-amazon.com/images/I/61Uz0AOzFRL.jpg",
+      "title": "Herseas Women High Waisted U Wired Texured 2 Piece Bikini Sets | Two Piece Adjustable Straps Bathing Suits, Cutout High Rise Swim Suit, Beach Vacation Swimsuits, Pool Party",
+      "image_url": "https://m.media-amazon.com/images/I/61qJ-hePnJL.jpg",
       "heat_score": 64,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing MIZOK Men's Swimwear Bikini Swimming Briefs Drawstring Swimsuits Board Surf Shorts Trunks, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Herseas Women High Waisted U Wired Texured 2 Piece Bikini Sets Two, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-19",
       "rank": 19,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "PINKY SENSON Men's American Flag Patriotic Swimwear Fourth of July Stars & Stripes Swim Briefs",
-      "image_url": "https://m.media-amazon.com/images/I/71sce0gHjtL.jpg",
+      "title": "Rossopesca Womens Beach Sarong Chiffon Swimsuit Coverups Sheer Bikini Wraps for Swimwear Bathing Suit Cover Up",
+      "image_url": "https://m.media-amazon.com/images/I/61uN6leCLiL.jpg",
       "heat_score": 62,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing PINKY SENSON Men's American Flag Patriotic Swimwear Fourth of July Stars &, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Rossopesca Womens Beach Sarong Chiffon Swimsuit Coverups Sheer Bikini Wraps for Swimwear, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-swimwear-20",
       "rank": 20,
       "platform": "Amazon Fashion",
       "category_key": "swimwear",
-      "category_name": "泳装与沙滩服",
+      "category_name": "女士泳装与沙滩服",
       "category_en": "Swimwear & Beach",
-      "title": "MIZOK Men's Sexy Low Rise Quick Dry Swim Briefs Hot Body Bikini Swimsuit Swimwear",
-      "image_url": "https://m.media-amazon.com/images/I/61ap90Yx85L.jpg",
+      "title": "Women's 3 Piece Tankini Swimsuit Tummy Control Bathing Suit with Boy Shorts | Modest Swimwear, Athletic Style, Sports Bra Support, Crisscross Back, High-Waist Fit, Multi-Way Styling, Stretch Fabric",
+      "image_url": "https://m.media-amazon.com/images/I/61trE8s6WVL.jpg",
       "heat_score": 60,
       "tags": [
         "Amazon Bestseller",
         "Swimwear & Beach",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing MIZOK Men's Sexy Low Rise Quick Dry Swim Briefs Hot Body Bikini, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Women's 3 Piece Tankini Swimsuit Tummy Control Bathing Suit with Boy Shorts, high-end Swimwear & Beach editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     }
   ]
 }
