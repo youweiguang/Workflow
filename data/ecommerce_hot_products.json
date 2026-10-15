@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14T21:50:28Z",
-  "total": 140,
+  "updated_at": "2026-10-15T21:34:39Z",
+  "total": 120,
   "platforms": [
     "Amazon Fashion"
   ],
@@ -73,26 +73,9 @@
       "category_key": "dresses",
       "category_name": "连衣裙与礼服",
       "category_en": "Dresses",
-      "title": "Sampeel Dresses for Women 2025 Long Sleeve Fall Fashion Casual Sweater Dress Trendy Outifts",
-      "image_url": "https://m.media-amazon.com/images/I/710MFAjQYjL.jpg",
-      "heat_score": 92,
-      "tags": [
-        "Amazon Bestseller",
-        "Dresses",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Sampeel Dresses for Women 2025 Long Sleeve Fall Fashion Casual Sweater Dress, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-dresses-5",
-      "rank": 5,
-      "platform": "Amazon Fashion",
-      "category_key": "dresses",
-      "category_name": "连衣裙与礼服",
-      "category_en": "Dresses",
       "title": "PRETTYGARDEN Women's A Line Elegant Summer Cocktail Dresses | Sleeveless Tank, Fit and Flare, Short Graduation Dress, Spring Dinner Party Date Night Outfit, Business Casual Work Clothes",
       "image_url": "https://m.media-amazon.com/images/I/71YtsDTfL+L.jpg",
-      "heat_score": 90,
+      "heat_score": 92,
       "tags": [
         "Amazon Bestseller",
         "Dresses",
@@ -101,49 +84,15 @@
       "prompt_recipe": "commercial fashion catalog photography of a model wearing PRETTYGARDEN Women's A Line Elegant Summer Cocktail Dresses Sleeveless Tank Fit and, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-dresses-6",
-      "rank": 6,
-      "platform": "Amazon Fashion",
-      "category_key": "dresses",
-      "category_name": "连衣裙与礼服",
-      "category_en": "Dresses",
-      "title": "IWD Women's Square Neck Sleeveless Mini Dress Corset A Line Short Dresses | Ruched Waist Flowy Tiered Ruffle Hem Party Dresses",
-      "image_url": "https://m.media-amazon.com/images/I/61DNipNWwIL.jpg",
-      "heat_score": 88,
-      "tags": [
-        "Amazon Bestseller",
-        "Dresses",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing IWD Women's Square Neck Sleeveless Mini Dress Corset A Line Short Dresses, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-dresses-7",
-      "rank": 7,
-      "platform": "Amazon Fashion",
-      "category_key": "dresses",
-      "category_name": "连衣裙与礼服",
-      "category_en": "Dresses",
-      "title": "Trendy Queen Women Mini Summer Party Homecoming Beach Vacation Sun Dresses | Birthday Square Neck Flowy Short Sundress, 2026 Cruise Outfits, Athletic Cute Clothes, Date Night Club Resort Wear",
-      "image_url": "https://m.media-amazon.com/images/I/613Vzy2o6oL.jpg",
-      "heat_score": 86,
-      "tags": [
-        "Amazon Bestseller",
-        "Dresses",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Trendy Queen Women Mini Summer Party Homecoming Beach Vacation Sun Dresses Birthday, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-dresses-8",
-      "rank": 8,
+      "id": "amz-dresses-5",
+      "rank": 5,
       "platform": "Amazon Fashion",
       "category_key": "dresses",
       "category_name": "连衣裙与礼服",
       "category_en": "Dresses",
       "title": "GRECERELLE 2026 Women Year-Round Casual Round Neck Loose Split Wrinkle-Free Long Maxi Vacation Dress with Pockets (XXS-4XL)",
       "image_url": "https://m.media-amazon.com/images/I/61ceyasLBOL.jpg",
-      "heat_score": 84,
+      "heat_score": 90,
       "tags": [
         "Amazon Bestseller",
         "Dresses",
@@ -152,21 +101,72 @@
       "prompt_recipe": "commercial fashion catalog photography of a model wearing GRECERELLE 2026 Women Year-Round Casual Round Neck Loose Split Wrinkle-Free Long Maxi, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-dresses-9",
-      "rank": 9,
+      "id": "amz-dresses-6",
+      "rank": 6,
+      "platform": "Amazon Fashion",
+      "category_key": "dresses",
+      "category_name": "连衣裙与礼服",
+      "category_en": "Dresses",
+      "title": "Sampeel Dresses for Women 2025 Long Sleeve Fall Fashion Casual Sweater Dress Trendy Outifts",
+      "image_url": "https://m.media-amazon.com/images/I/710MFAjQYjL.jpg",
+      "heat_score": 88,
+      "tags": [
+        "Amazon Bestseller",
+        "Dresses",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Sampeel Dresses for Women 2025 Long Sleeve Fall Fashion Casual Sweater Dress, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-dresses-7",
+      "rank": 7,
       "platform": "Amazon Fashion",
       "category_key": "dresses",
       "category_name": "连衣裙与礼服",
       "category_en": "Dresses",
       "title": "BTFBM Womens Summer 2026 Casual Maxi Dresses Lightweight Short Sleeve Dress | V Neck Elastic Waist A Line Long Dress,Boho Beach Vacation Outfits,Wedding Guest Dresses Pockets,Early Fall Fashion Clothing",
       "image_url": "https://m.media-amazon.com/images/I/711jzJnE-FL.jpg",
-      "heat_score": 82,
+      "heat_score": 86,
       "tags": [
         "Amazon Bestseller",
         "Dresses",
         "Spring/Summer 2026"
       ],
       "prompt_recipe": "commercial fashion catalog photography of a model wearing BTFBM Womens Summer 2026 Casual Maxi Dresses Lightweight Short Sleeve Dress V, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-dresses-8",
+      "rank": 8,
+      "platform": "Amazon Fashion",
+      "category_key": "dresses",
+      "category_name": "连衣裙与礼服",
+      "category_en": "Dresses",
+      "title": "IWD Women's Square Neck Sleeveless Mini Dress Corset A Line Short Dresses | Ruched Waist Flowy Tiered Ruffle Hem Party Dresses",
+      "image_url": "https://m.media-amazon.com/images/I/61DNipNWwIL.jpg",
+      "heat_score": 84,
+      "tags": [
+        "Amazon Bestseller",
+        "Dresses",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing IWD Women's Square Neck Sleeveless Mini Dress Corset A Line Short Dresses, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-dresses-9",
+      "rank": 9,
+      "platform": "Amazon Fashion",
+      "category_key": "dresses",
+      "category_name": "连衣裙与礼服",
+      "category_en": "Dresses",
+      "title": "Trendy Queen Women Mini Summer Party Homecoming Beach Vacation Sun Dresses | Birthday Square Neck Flowy Short Sundress, 2026 Cruise Outfits, Athletic Cute Clothes, Date Night Club Resort Wear",
+      "image_url": "https://m.media-amazon.com/images/I/613Vzy2o6oL.jpg",
+      "heat_score": 82,
+      "tags": [
+        "Amazon Bestseller",
+        "Dresses",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Trendy Queen Women Mini Summer Party Homecoming Beach Vacation Sun Dresses Birthday, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-dresses-10",
@@ -192,43 +192,9 @@
       "category_key": "dresses",
       "category_name": "连衣裙与礼服",
       "category_en": "Dresses",
-      "title": "BTFBM Women's Maxi Dresses Fall 2026 Long Sleeve Wedding Guest Dress | Mesh,Ruched,Bodycon,High Split,Solid Color,Ruffle, Mermaid,Cocktail Dresses,Prom,Party,Homecoming Dress,Fall Outfits",
-      "image_url": "https://m.media-amazon.com/images/I/61Ms7BP-WRL.jpg",
-      "heat_score": 78,
-      "tags": [
-        "Amazon Bestseller",
-        "Dresses",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing BTFBM Women's Maxi Dresses Fall 2026 Long Sleeve Wedding Guest Dress Mesh, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-dresses-12",
-      "rank": 12,
-      "platform": "Amazon Fashion",
-      "category_key": "dresses",
-      "category_name": "连衣裙与礼服",
-      "category_en": "Dresses",
-      "title": "DB MOON Women Casual Long Sleeve Maxi Dresses Empire Waist Long Dress with Pockets",
-      "image_url": "https://m.media-amazon.com/images/I/51Jw+rC-oXL.jpg",
-      "heat_score": 76,
-      "tags": [
-        "Amazon Bestseller",
-        "Dresses",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing DB MOON Women Casual Long Sleeve Maxi Dresses Empire Waist Long Dress, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-dresses-13",
-      "rank": 13,
-      "platform": "Amazon Fashion",
-      "category_key": "dresses",
-      "category_name": "连衣裙与礼服",
-      "category_en": "Dresses",
       "title": "DRESSTELLS Women's Cocktail Dresses, Formal Wedding Guest Church Dress | A-line, Mid Calf, Detachable Belt, Vintage Tea Party, Modest Evening Dress",
       "image_url": "https://m.media-amazon.com/images/I/61WMwbw68LL.jpg",
-      "heat_score": 74,
+      "heat_score": 78,
       "tags": [
         "Amazon Bestseller",
         "Dresses",
@@ -237,32 +203,32 @@
       "prompt_recipe": "commercial fashion catalog photography of a model wearing DRESSTELLS Women's Cocktail Dresses Formal Wedding Guest Church Dress A-line Mid Calf, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-dresses-14",
-      "rank": 14,
+      "id": "amz-dresses-12",
+      "rank": 12,
       "platform": "Amazon Fashion",
       "category_key": "dresses",
       "category_name": "连衣裙与礼服",
       "category_en": "Dresses",
-      "title": "Dokotoo Womens Long Sleeve Crewneck Casual A Line Babydoll Mini Dress | Elegant Classy, Empire Waist, Short Dresses for Party Club Cocktail Date Night Going Out Wedding Guest, Western Outfits",
-      "image_url": "https://m.media-amazon.com/images/I/71lslECR+SL.jpg",
-      "heat_score": 72,
+      "title": "BTFBM Women's Maxi Dresses Fall 2026 Long Sleeve Wedding Guest Dress | Mesh,Ruched,Bodycon,High Split,Solid Color,Ruffle, Mermaid,Cocktail Dresses,Prom,Party,Homecoming Dress,Fall Outfits",
+      "image_url": "https://m.media-amazon.com/images/I/61Ms7BP-WRL.jpg",
+      "heat_score": 76,
       "tags": [
         "Amazon Bestseller",
         "Dresses",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Dokotoo Womens Long Sleeve Crewneck Casual A Line Babydoll Mini Dress Elegant, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing BTFBM Women's Maxi Dresses Fall 2026 Long Sleeve Wedding Guest Dress Mesh, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-dresses-15",
-      "rank": 15,
+      "id": "amz-dresses-13",
+      "rank": 13,
       "platform": "Amazon Fashion",
       "category_key": "dresses",
       "category_name": "连衣裙与礼服",
       "category_en": "Dresses",
       "title": "OFEEFAN Fall Dresses for Women 2026 Long Sleeve Sweater Dress Color Block | Side Pockets, Ribbed, Lightweight, Winter Clothing, Loose Fit",
       "image_url": "https://m.media-amazon.com/images/I/81B36pMgpvL.jpg",
-      "heat_score": 70,
+      "heat_score": 74,
       "tags": [
         "Amazon Bestseller",
         "Dresses",
@@ -271,15 +237,32 @@
       "prompt_recipe": "commercial fashion catalog photography of a model wearing OFEEFAN Fall Dresses for Women 2026 Long Sleeve Sweater Dress Color Block, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-dresses-16",
-      "rank": 16,
+      "id": "amz-dresses-14",
+      "rank": 14,
+      "platform": "Amazon Fashion",
+      "category_key": "dresses",
+      "category_name": "连衣裙与礼服",
+      "category_en": "Dresses",
+      "title": "DB MOON Women Casual Long Sleeve Maxi Dresses Empire Waist Long Dress with Pockets",
+      "image_url": "https://m.media-amazon.com/images/I/51Jw+rC-oXL.jpg",
+      "heat_score": 72,
+      "tags": [
+        "Amazon Bestseller",
+        "Dresses",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing DB MOON Women Casual Long Sleeve Maxi Dresses Empire Waist Long Dress, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-dresses-15",
+      "rank": 15,
       "platform": "Amazon Fashion",
       "category_key": "dresses",
       "category_name": "连衣裙与礼服",
       "category_en": "Dresses",
       "title": "OFEEFAN Long Sleeve Dress for Women Crew Neck Empire Waist Tunic Dress with Pockets",
       "image_url": "https://m.media-amazon.com/images/I/71Fga1IE3OL.jpg",
-      "heat_score": 68,
+      "heat_score": 70,
       "tags": [
         "Amazon Bestseller",
         "Dresses",
@@ -288,21 +271,38 @@
       "prompt_recipe": "commercial fashion catalog photography of a model wearing OFEEFAN Long Sleeve Dress for Women Crew Neck Empire Waist Tunic Dress, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
+      "id": "amz-dresses-16",
+      "rank": 16,
+      "platform": "Amazon Fashion",
+      "category_key": "dresses",
+      "category_name": "连衣裙与礼服",
+      "category_en": "Dresses",
+      "title": "Dokotoo Womens Long Sleeve Crewneck Casual A Line Babydoll Mini Dress | Elegant Classy, Empire Waist, Short Dresses for Party Club Cocktail Date Night Going Out Wedding Guest, Western Outfits",
+      "image_url": "https://m.media-amazon.com/images/I/71lslECR+SL.jpg",
+      "heat_score": 68,
+      "tags": [
+        "Amazon Bestseller",
+        "Dresses",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Dokotoo Womens Long Sleeve Crewneck Casual A Line Babydoll Mini Dress Elegant, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
       "id": "amz-dresses-17",
       "rank": 17,
       "platform": "Amazon Fashion",
       "category_key": "dresses",
       "category_name": "连衣裙与礼服",
       "category_en": "Dresses",
-      "title": "Floerns Women Backless Sleeveless Ruffle Bubble Hem Mesh Halter Mini Dress | Tie Open Back, Drop Ruched Waist, Ruffle Bubble Hem, Loose Fit, Chiffon Halter Dress",
-      "image_url": "https://m.media-amazon.com/images/I/61yI39cmpfL.jpg",
+      "title": "Sampeel Dresses for Women 2025 Casual Summer Sundresses Sleeveless Tank Dress Fashion Outfits",
+      "image_url": "https://m.media-amazon.com/images/I/71JmoCT8b5L.jpg",
       "heat_score": 66,
       "tags": [
         "Amazon Bestseller",
         "Dresses",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Floerns Women Backless Sleeveless Ruffle Bubble Hem Mesh Halter Mini Dress Tie, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Sampeel Dresses for Women 2025 Casual Summer Sundresses Sleeveless Tank Dress Fashion, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-dresses-18",
@@ -328,15 +328,15 @@
       "category_key": "dresses",
       "category_name": "连衣裙与礼服",
       "category_en": "Dresses",
-      "title": "Sampeel Dresses for Women 2025 Casual Summer Sundresses Sleeveless Tank Dress Fashion Outfits",
-      "image_url": "https://m.media-amazon.com/images/I/71JmoCT8b5L.jpg",
+      "title": "Floerns Women Backless Sleeveless Ruffle Bubble Hem Mesh Halter Mini Dress | Tie Open Back, Drop Ruched Waist, Ruffle Bubble Hem, Loose Fit, Chiffon Halter Dress",
+      "image_url": "https://m.media-amazon.com/images/I/61yI39cmpfL.jpg",
       "heat_score": 62,
       "tags": [
         "Amazon Bestseller",
         "Dresses",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Sampeel Dresses for Women 2025 Casual Summer Sundresses Sleeveless Tank Dress Fashion, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Floerns Women Backless Sleeveless Ruffle Bubble Hem Mesh Halter Mini Dress Tie, high-end Dresses editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-dresses-20",
@@ -430,15 +430,15 @@
       "category_key": "tops",
       "category_name": "上衣与衬衫",
       "category_en": "Tops & Shirts",
-      "title": "Trendy Queen Womens Short Sleeve T Shirt Basic Summer Top | Buttery-Soft Stretch Fabric, Breathable, Figure-Flattering, Slim Fit Y2K Crop Tops for Workouts and Going Out",
-      "image_url": "https://m.media-amazon.com/images/I/613+lFVMnEL.jpg",
+      "title": "Gildan Adult Ultra Cotton T-Shirt, Style G2000, Multipack",
+      "image_url": "https://m.media-amazon.com/images/I/61x-LF9fyYL.jpg",
       "heat_score": 90,
       "tags": [
         "Amazon Bestseller",
         "Tops & Shirts",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Trendy Queen Womens Short Sleeve T Shirt Basic Summer Top Buttery-Soft Stretch, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Gildan Adult Ultra Cotton T-Shirt Style G2000 Multipack, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-tops-6",
@@ -447,15 +447,15 @@
       "category_key": "tops",
       "category_name": "上衣与衬衫",
       "category_en": "Tops & Shirts",
-      "title": "Gildan Adult Ultra Cotton T-Shirt, Style G2000, Multipack",
-      "image_url": "https://m.media-amazon.com/images/I/61x-LF9fyYL.jpg",
+      "title": "Trendy Queen Womens Short Sleeve T Shirt Basic Summer Top | Buttery-Soft Stretch Fabric, Breathable, Figure-Flattering, Slim Fit Y2K Crop Tops for Workouts and Going Out",
+      "image_url": "https://m.media-amazon.com/images/I/613+lFVMnEL.jpg",
       "heat_score": 88,
       "tags": [
         "Amazon Bestseller",
         "Tops & Shirts",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Gildan Adult Ultra Cotton T-Shirt Style G2000 Multipack, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Trendy Queen Womens Short Sleeve T Shirt Basic Summer Top Buttery-Soft Stretch, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-tops-7",
@@ -515,15 +515,15 @@
       "category_key": "tops",
       "category_name": "上衣与衬衫",
       "category_en": "Tops & Shirts",
-      "title": "Zeagoo Blouses for Women Long Sleeve Dressy Casual Button Down Shirts | Lady Collared Tops Business Casual Work Outfits Clothing for Fall Spring",
-      "image_url": "https://m.media-amazon.com/images/I/716E7hvssRL.jpg",
+      "title": "Zeagoo Women's Casual Shirts Long Sleeve Tops Crewneck Tshirts Fall Clothes | Breathable Comfort Lightweight Basic Tees,Casual Workout Clothes,Solid or Graphic Tshirts,2026 Fashion Outfit",
+      "image_url": "https://m.media-amazon.com/images/I/81Uyta4mBCL.jpg",
       "heat_score": 80,
       "tags": [
         "Amazon Bestseller",
         "Tops & Shirts",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Zeagoo Blouses for Women Long Sleeve Dressy Casual Button Down Shirts Lady, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Zeagoo Women's Casual Shirts Long Sleeve Tops Crewneck Tshirts Fall Clothes Breathable, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-tops-11",
@@ -532,15 +532,15 @@
       "category_key": "tops",
       "category_name": "上衣与衬衫",
       "category_en": "Tops & Shirts",
-      "title": "Zeagoo Women's Casual Shirts Long Sleeve Tops Crewneck Tshirts Fall Clothes | Breathable Comfort Lightweight Basic Tees,Casual Workout Clothes,Solid or Graphic Tshirts,2026 Fashion Outfit",
-      "image_url": "https://m.media-amazon.com/images/I/81Uyta4mBCL.jpg",
+      "title": "Zeagoo Blouses for Women Long Sleeve Dressy Casual Button Down Shirts | Lady Collared Tops Business Casual Work Outfits Clothing for Fall Spring",
+      "image_url": "https://m.media-amazon.com/images/I/716E7hvssRL.jpg",
       "heat_score": 78,
       "tags": [
         "Amazon Bestseller",
         "Tops & Shirts",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Zeagoo Women's Casual Shirts Long Sleeve Tops Crewneck Tshirts Fall Clothes Breathable, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Zeagoo Blouses for Women Long Sleeve Dressy Casual Button Down Shirts Lady, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-tops-12",
@@ -566,15 +566,15 @@
       "category_key": "tops",
       "category_name": "上衣与衬衫",
       "category_en": "Tops & Shirts",
-      "title": "GAYHAY Long Sleeve Shirts for Women Tops Fitted Clothes Fall Fashion 2026 | Basic Tees, Girls School Outfits, Y2k Winter Tshirt, Tight Underscrub, Workout Casual, Cute Trendy Plain Compression Layering",
-      "image_url": "https://m.media-amazon.com/images/I/71THNPPQ0LL.jpg",
+      "title": "Trendy Queen Womens Oversized Long Sleeve Shirts Fall Tops 2026 Basic Tees | Crewneck Fitness Clothing, Y2k Streetwear, Workout Gym Athletic T, Plus Size Fashion, Winter Outfits, Cute Sweatshirts",
+      "image_url": "https://m.media-amazon.com/images/I/51CxQQZ5O5L.jpg",
       "heat_score": 74,
       "tags": [
         "Amazon Bestseller",
         "Tops & Shirts",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing GAYHAY Long Sleeve Shirts for Women Tops Fitted Clothes Fall Fashion 2026, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Trendy Queen Womens Oversized Long Sleeve Shirts Fall Tops 2026 Basic Tees, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-tops-14",
@@ -583,15 +583,15 @@
       "category_key": "tops",
       "category_name": "上衣与衬衫",
       "category_en": "Tops & Shirts",
-      "title": "BJY Cotton Basic T Shirts for Women,Crew Neck Short Sleeve Summer Shirts(2XS-3XL, 20+ Color)",
-      "image_url": "https://m.media-amazon.com/images/I/61yzn-Z5X+L.jpg",
+      "title": "GAYHAY Long Sleeve Shirts for Women Tops Fitted Clothes Fall Fashion 2026 | Basic Tees, Girls School Outfits, Y2k Winter Tshirt, Tight Underscrub, Workout Casual, Cute Trendy Plain Compression Layering",
+      "image_url": "https://m.media-amazon.com/images/I/71THNPPQ0LL.jpg",
       "heat_score": 72,
       "tags": [
         "Amazon Bestseller",
         "Tops & Shirts",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing BJY Cotton Basic T Shirts for Women Crew Neck Short Sleeve Summer, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing GAYHAY Long Sleeve Shirts for Women Tops Fitted Clothes Fall Fashion 2026, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-tops-15",
@@ -600,15 +600,15 @@
       "category_key": "tops",
       "category_name": "上衣与衬衫",
       "category_en": "Tops & Shirts",
-      "title": "Trendy Queen Womens Oversized Long Sleeve Shirts Fall Tops 2026 Basic Tees | Crewneck Fitness Clothing, Y2k Streetwear, Workout Gym Athletic T, Plus Size Fashion, Winter Outfits, Cute Sweatshirts",
-      "image_url": "https://m.media-amazon.com/images/I/51CxQQZ5O5L.jpg",
+      "title": "BJY Cotton Basic T Shirts for Women,Crew Neck Short Sleeve Summer Shirts(2XS-3XL, 20+ Color)",
+      "image_url": "https://m.media-amazon.com/images/I/61yzn-Z5X+L.jpg",
       "heat_score": 70,
       "tags": [
         "Amazon Bestseller",
         "Tops & Shirts",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Trendy Queen Womens Oversized Long Sleeve Shirts Fall Tops 2026 Basic Tees, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing BJY Cotton Basic T Shirts for Women Crew Neck Short Sleeve Summer, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-tops-16",
@@ -651,15 +651,15 @@
       "category_key": "tops",
       "category_name": "上衣与衬衫",
       "category_en": "Tops & Shirts",
-      "title": "Saloogoe Long Sleeve Shirts for Women 2026 Fall Clothes Tunic Tops Loose Fit Dressy Crewneck Pullover Sweaters Curved Hem",
-      "image_url": "https://m.media-amazon.com/images/I/81Nk9XTGkOL.jpg",
+      "title": "Zeagoo Women Long Sleeve Shirts Slim Fit Going Out Tops Crewneck Basic Tee | Stretchy Fitted Tops for Casual, Versatile T-Shirt, Soft Layering Shirts, Perfect for Summer and Fall Outfits",
+      "image_url": "https://m.media-amazon.com/images/I/71CGS485EpL.jpg",
       "heat_score": 64,
       "tags": [
         "Amazon Bestseller",
         "Tops & Shirts",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Saloogoe Long Sleeve Shirts for Women 2026 Fall Clothes Tunic Tops Loose, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Zeagoo Women Long Sleeve Shirts Slim Fit Going Out Tops Crewneck Basic, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-tops-19",
@@ -668,15 +668,15 @@
       "category_key": "tops",
       "category_name": "上衣与衬衫",
       "category_en": "Tops & Shirts",
-      "title": "Zeagoo Women Long Sleeve Shirts Slim Fit Going Out Tops Crewneck Basic Tee | Stretchy Fitted Tops for Casual, Versatile T-Shirt, Soft Layering Shirts, Perfect for Summer and Fall Outfits",
-      "image_url": "https://m.media-amazon.com/images/I/71CGS485EpL.jpg",
+      "title": "Saloogoe Long Sleeve Shirts for Women 2026 Fall Clothes Tunic Tops Loose Fit Dressy Crewneck Pullover Sweaters Curved Hem",
+      "image_url": "https://m.media-amazon.com/images/I/81Nk9XTGkOL.jpg",
       "heat_score": 62,
       "tags": [
         "Amazon Bestseller",
         "Tops & Shirts",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Zeagoo Women Long Sleeve Shirts Slim Fit Going Out Tops Crewneck Basic, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Saloogoe Long Sleeve Shirts for Women 2026 Fall Clothes Tunic Tops Loose, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-tops-20",
@@ -694,346 +694,6 @@
         "Spring/Summer 2026"
       ],
       "prompt_recipe": "commercial fashion catalog photography of a model wearing Zeagoo Women Long Sleeve Shirts Ribbed Tops Crewneck Basic Tee Stretchy Ribbed, high-end Tops & Shirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-1",
-      "rank": 1,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "Trendy Queen Cropped Cardigan Sweaters for Women Fall Fashion Clothes 2026 | Lightweight Knit Button-Down, Versatile Layering Piece for Fall, Spring & Office Wear",
-      "image_url": "https://m.media-amazon.com/images/I/71EMLE2FjpL.jpg",
-      "heat_score": 98,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Trendy Queen Cropped Cardigan Sweaters for Women Fall Fashion Clothes 2026 Lightweight, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-2",
-      "rank": 2,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "Trendy Queen Women's Oversized Cable Knit Sweaters 2026 Fall Outfits | Quiet Luxury Style, Chunky Knit Texture, Winter Holiday Outfit, Easy Layering Piece, Fall Fashion Staple",
-      "image_url": "https://m.media-amazon.com/images/I/71l9N09tGUL.jpg",
-      "heat_score": 96,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Trendy Queen Women's Oversized Cable Knit Sweaters 2026 Fall Outfits Quiet Luxury, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-3",
-      "rank": 3,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "LILLUSORY Cardigan for Women Lightweight Cardigans Fall Fashion Outfits | Open Front Long Cardigan with Pockets, Business Casual Travel Outfits",
-      "image_url": "https://m.media-amazon.com/images/I/71tg-6WKPbL.jpg",
-      "heat_score": 94,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing LILLUSORY Cardigan for Women Lightweight Cardigans Fall Fashion Outfits Open Front Long, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-4",
-      "rank": 4,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "GRACE KARIN Knit Cardigan Sweaters for Women Lightweight Fall Outfits 2026 | Versatile All-Season Layering Cardigan, Long-Sleeve Crewneck Button Up Sweaters, Fall Outfits for Work Office Daily Wear",
-      "image_url": "https://m.media-amazon.com/images/I/61N8jhUaUML.jpg",
-      "heat_score": 92,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing GRACE KARIN Knit Cardigan Sweaters for Women Lightweight Fall Outfits 2026 Versatile, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-5",
-      "rank": 5,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "PRETTYGARDEN Women's Chunky Knit Open Front Cardigan Sweaters Fall Outfits | V Neck Button Loose Short Cardigan Outerwear Coats, Slouchy Drop Shoulder Loose Cute Sweaters, Fall Clothes for Work & Office",
-      "image_url": "https://m.media-amazon.com/images/I/81J5bRelO6L.jpg",
-      "heat_score": 90,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing PRETTYGARDEN Women's Chunky Knit Open Front Cardigan Sweaters Fall Outfits V Neck, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-6",
-      "rank": 6,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "Trendy Queen Women's Lightweight Knit Cardigan | Cute Soft Button-Down Sweater, Versatile Layering Top for Spring, Fall, Winter & Office",
-      "image_url": "https://m.media-amazon.com/images/I/71rBZ1tZF5L.jpg",
-      "heat_score": 88,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Trendy Queen Women's Lightweight Knit Cardigan Cute Soft Button-Down Sweater Versatile Layering, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-7",
-      "rank": 7,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "ANRABESS Women’s Fall Long Sleeve V Neck Lightweight Sweaters Top | Soft Basic Loose Fit Pullover Sweater,Dressy Business Casual Work Outfits,Travel Vacation All Day Wear,2026 Trendy Clothing",
-      "image_url": "https://m.media-amazon.com/images/I/81wyR9nxTDL.jpg",
-      "heat_score": 86,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing ANRABESS Women’s Fall Long Sleeve V Neck Lightweight Sweaters Top Soft Basic, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-8",
-      "rank": 8,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "PRETTYGARDEN Womens Open Front Oversized Cardigan Sweaters | Soft Chunky Knit, Baggy Loose Fit, Long Lantern Sleeve Lightweight Sweater, Casual Daily Going Out, Fall Winter Outfits",
-      "image_url": "https://m.media-amazon.com/images/I/81jWyFr+feL.jpg",
-      "heat_score": 84,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing PRETTYGARDEN Womens Open Front Oversized Cardigan Sweaters Soft Chunky Knit Baggy Loose, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-9",
-      "rank": 9,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "Zeagoo Womens Tops Short Sleeve Sweater Crewneck Basic Fashion Clothing | Summer Short Sleeve Tops,Crewneck Lightweight Pullover Sweaters,Loose Dressy Casual Blouse,Basic Clothes,Business Casual Tops",
-      "image_url": "https://m.media-amazon.com/images/I/71GB+HeTAyL.jpg",
-      "heat_score": 82,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Zeagoo Womens Tops Short Sleeve Sweater Crewneck Basic Fashion Clothing Summer Short, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-10",
-      "rank": 10,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "Sampeel Womens Short Sleeve Sweater Mock Neck Summer Top Dressy Casual Basic Knit Pullover Shirt",
-      "image_url": "https://m.media-amazon.com/images/I/71XiVk+lzRL.jpg",
-      "heat_score": 80,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Sampeel Womens Short Sleeve Sweater Mock Neck Summer Top Dressy Casual Basic, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-11",
-      "rank": 11,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "QUALFORT Women's 100% Cotton Sweater Lightweight Long Sleeve Pullover | 100% Cotton Lightweight Sweater, Soft Long Sleeve Knit Pullover for Casual, Business, Travel and Everyday Layering",
-      "image_url": "https://m.media-amazon.com/images/I/71AvCELAiVL.jpg",
-      "heat_score": 78,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing QUALFORT Women's 100% Cotton Sweater Lightweight Long Sleeve Pullover 100% Cotton Lightweight, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-12",
-      "rank": 12,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "Amazon Essentials Women's Classic-Fit Lightweight Long-Sleeve Turtleneck Sweater",
-      "image_url": "https://m.media-amazon.com/images/I/718uIhrxKtL.jpg",
-      "heat_score": 76,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Amazon Essentials Women's Classic-Fit Lightweight Long-Sleeve Turtleneck Sweater, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-13",
-      "rank": 13,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "Arach&Cloz Women's Wool Blend Classic Crew Neck Casual Fall Sweaters | Business Casual, Long Sleeve, Anti-Pilling, Wrinkle-Resistant",
-      "image_url": "https://m.media-amazon.com/images/I/81mp8RO8BhL.jpg",
-      "heat_score": 74,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Arach&Cloz Women's Wool Blend Classic Crew Neck Casual Fall Sweaters Business Casual, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-14",
-      "rank": 14,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "EVALESS Womens Lightweight Cardigan Sweaters Fall Outfits | Soft Wool Blend Knit Fabric, Button Knit Tops Layering Cardigan, Business Casual Office Wear 2026 Fashion Clothing",
-      "image_url": "https://m.media-amazon.com/images/I/71wuSYy3j0L.jpg",
-      "heat_score": 72,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing EVALESS Womens Lightweight Cardigan Sweaters Fall Outfits Soft Wool Blend Knit Fabric, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-15",
-      "rank": 15,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "Zeagoo Womens Wool Blend Sweater Crewneck Long Sleeve Tops Fashion Clothing | Zeagoo Womens Wool Blend Crewneck Sweater Long Sleeve Soft Knit Pullover Lightweight Business Casual Black Fashion Clothing",
-      "image_url": "https://m.media-amazon.com/images/I/81PQDdeUVYL.jpg",
-      "heat_score": 70,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Zeagoo Womens Wool Blend Sweater Crewneck Long Sleeve Tops Fashion Clothing Zeagoo, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-16",
-      "rank": 16,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "WIHOLL Sweaters for Women V Neck Casual Knit Long Sleeve Tops Lightweight Pullover Clothes Fall Fashion Outfits 2026",
-      "image_url": "https://m.media-amazon.com/images/I/71-UB0a6L5L.jpg",
-      "heat_score": 68,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing WIHOLL Sweaters for Women V Neck Casual Knit Long Sleeve Tops Lightweight, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-17",
-      "rank": 17,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "Amazon Essentials Women's Lightweight V-Neck Cardigan Sweater",
-      "image_url": "https://m.media-amazon.com/images/I/81Ivu7JlGmL.jpg",
-      "heat_score": 66,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Amazon Essentials Women's Lightweight V-Neck Cardigan Sweater, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-18",
-      "rank": 18,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "GRECERELLE Cardigan Sweaters for Women Lightweight 2026 Fall Outfits | Year-Round Layering Essential Cardigans, Scalloped Ribbed Trim, Long Sleeve Button Down Knit Shrugs, Teacher Office Clothes",
-      "image_url": "https://m.media-amazon.com/images/I/61VuUKGntUL.jpg",
-      "heat_score": 64,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing GRECERELLE Cardigan Sweaters for Women Lightweight 2026 Fall Outfits Year-Round Layering Essential, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-19",
-      "rank": 19,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "Amazon Essentials Women's Lightweight Long-Sleeve Open-Front Long Cardigan Sweater, Regular Fit",
-      "image_url": "https://m.media-amazon.com/images/I/710AOwmR0KL.jpg",
-      "heat_score": 62,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Amazon Essentials Women's Lightweight Long-Sleeve Open-Front Long Cardigan Sweater Regular Fit, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-outerwear-20",
-      "rank": 20,
-      "platform": "Amazon Fashion",
-      "category_key": "outerwear",
-      "category_name": "外套与风衣",
-      "category_en": "Outerwear & Coats",
-      "title": "PRETTYGARDEN Womens Long Sleeve Quarter Zip Pullover Sweater | Casual Loose V Neck Sweaters with Thumb Hole, Collared Ribbed Knit Jumper Tops, Oversized Tunic Tops, Fall Outfits 2026",
-      "image_url": "https://m.media-amazon.com/images/I/81mAI17DasL.jpg",
-      "heat_score": 60,
-      "tags": [
-        "Amazon Bestseller",
-        "Outerwear & Coats",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing PRETTYGARDEN Womens Long Sleeve Quarter Zip Pullover Sweater Casual Loose V Neck, high-end Outerwear & Coats editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-skirts-1",
@@ -1212,15 +872,15 @@
       "category_key": "skirts",
       "category_name": "半身裙",
       "category_en": "Skirts",
-      "title": "Avidlove Skirts for Women Mini Skirt Casual Pleated Short Skirts",
-      "image_url": "https://m.media-amazon.com/images/I/71WzmAZfx2L.jpg",
+      "title": "DRESS NICES Women Pleated Skirt A-Line Short Mini Basic Skirt School Uniform Cheerleader Skirts Skater Skirt",
+      "image_url": "https://m.media-amazon.com/images/I/61rISn-fBRL.jpg",
       "heat_score": 78,
       "tags": [
         "Amazon Bestseller",
         "Skirts",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Avidlove Skirts for Women Mini Skirt Casual Pleated Short Skirts, high-end Skirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing DRESS NICES Women Pleated Skirt A-Line Short Mini Basic Skirt School Uniform, high-end Skirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-skirts-12",
@@ -1229,15 +889,15 @@
       "category_key": "skirts",
       "category_name": "半身裙",
       "category_en": "Skirts",
-      "title": "DRESS NICES Women Pleated Skirt A-Line Short Mini Basic Skirt School Uniform Cheerleader Skirts Skater Skirt",
-      "image_url": "https://m.media-amazon.com/images/I/61rISn-fBRL.jpg",
+      "title": "Leafsay Womens Maxi Skirt Long Flowy Summer A-Line High Waist Skirts | Elastic Waistband with Pockets, Lightweight Fabric, Casual Wear, Swing beach boho Outfits, Fashion Clothes",
+      "image_url": "https://m.media-amazon.com/images/I/51eDgSl1qkL.jpg",
       "heat_score": 76,
       "tags": [
         "Amazon Bestseller",
         "Skirts",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing DRESS NICES Women Pleated Skirt A-Line Short Mini Basic Skirt School Uniform, high-end Skirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Leafsay Womens Maxi Skirt Long Flowy Summer A-Line High Waist Skirts Elastic, high-end Skirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-skirts-13",
@@ -1280,26 +940,9 @@
       "category_key": "skirts",
       "category_name": "半身裙",
       "category_en": "Skirts",
-      "title": "Leafsay Womens Maxi Skirt Long Flowy Summer A-Line High Waist Skirts | Elastic Waistband with Pockets, Lightweight Fabric, Casual Wear, Swing beach boho Outfits, Fashion Clothes",
-      "image_url": "https://m.media-amazon.com/images/I/51eDgSl1qkL.jpg",
-      "heat_score": 70,
-      "tags": [
-        "Amazon Bestseller",
-        "Skirts",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Leafsay Womens Maxi Skirt Long Flowy Summer A-Line High Waist Skirts Elastic, high-end Skirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-skirts-16",
-      "rank": 16,
-      "platform": "Amazon Fashion",
-      "category_key": "skirts",
-      "category_name": "半身裙",
-      "category_en": "Skirts",
       "title": "Outoshe Women's Satin Midi Skirt High Waisted A Line White Silk Long Skirts | Flowy, Pull On, Bias Cut, Hidden Elasticized Waistband, Silky, Casual Outfits for Women",
       "image_url": "https://m.media-amazon.com/images/I/51UDuhjBe+L.jpg",
-      "heat_score": 68,
+      "heat_score": 70,
       "tags": [
         "Amazon Bestseller",
         "Skirts",
@@ -1308,21 +951,38 @@
       "prompt_recipe": "commercial fashion catalog photography of a model wearing Outoshe Women's Satin Midi Skirt High Waisted A Line White Silk Long, high-end Skirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-skirts-17",
-      "rank": 17,
+      "id": "amz-skirts-16",
+      "rank": 16,
       "platform": "Amazon Fashion",
       "category_key": "skirts",
       "category_name": "半身裙",
       "category_en": "Skirts",
       "title": "Zeagoo Women's Skirt Basic Mini Skater Skirt 2026 Summer Skirts Stretchable High Waist A-Line Party Club Skirts",
       "image_url": "https://m.media-amazon.com/images/I/51OIQhvZiZL.jpg",
-      "heat_score": 66,
+      "heat_score": 68,
       "tags": [
         "Amazon Bestseller",
         "Skirts",
         "Spring/Summer 2026"
       ],
       "prompt_recipe": "commercial fashion catalog photography of a model wearing Zeagoo Women's Skirt Basic Mini Skater Skirt 2026 Summer Skirts Stretchable High, high-end Skirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-skirts-17",
+      "rank": 17,
+      "platform": "Amazon Fashion",
+      "category_key": "skirts",
+      "category_name": "半身裙",
+      "category_en": "Skirts",
+      "title": "Yincro Women's Maxi Skirt Flowy High Waist Casual Long Skirts with Pockets | A-Line Flared Hem, Elastic Waistband with Drawstring",
+      "image_url": "https://m.media-amazon.com/images/I/51ftJxZ2pyL.jpg",
+      "heat_score": 66,
+      "tags": [
+        "Amazon Bestseller",
+        "Skirts",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Yincro Women's Maxi Skirt Flowy High Waist Casual Long Skirts with Pockets, high-end Skirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-skirts-18",
@@ -1365,15 +1025,15 @@
       "category_key": "skirts",
       "category_name": "半身裙",
       "category_en": "Skirts",
-      "title": "Bridesmay Women's Tutu Skirt 2026 50s Vintage Ballet Bubble Dance Skirts for Cosplay Party",
-      "image_url": "https://m.media-amazon.com/images/I/61AC0LY5o7L.jpg",
+      "title": "Avidlove Skirts for Women Mini Skirt Casual Pleated Short Skirts",
+      "image_url": "https://m.media-amazon.com/images/I/71WzmAZfx2L.jpg",
       "heat_score": 60,
       "tags": [
         "Amazon Bestseller",
         "Skirts",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Bridesmay Women's Tutu Skirt 2026 50s Vintage Ballet Bubble Dance Skirts for, high-end Skirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Avidlove Skirts for Women Mini Skirt Casual Pleated Short Skirts, high-end Skirts editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-sweaters-1",
@@ -1383,7 +1043,7 @@
       "category_name": "毛衣与针织衫",
       "category_en": "Sweaters & Knits",
       "title": "Nautica Men's Quarter-Zip Sweater",
-      "image_url": "https://m.media-amazon.com/images/I/81BKHNYlVbL.jpg",
+      "image_url": "https://m.media-amazon.com/images/I/81eosniS1pL.jpg",
       "heat_score": 98,
       "tags": [
         "Amazon Bestseller",
@@ -1637,26 +1297,9 @@
       "category_key": "sweaters",
       "category_name": "毛衣与针织衫",
       "category_en": "Sweaters & Knits",
-      "title": "JMIERR Men's Quarter Zip Pullover Sweater Cable Knit Sweaters | V Neck, Soft Touch Texture, Machine Washable, Stand Collar, Long Sleeve, Fall, Winter, Fisherman",
-      "image_url": "https://m.media-amazon.com/images/I/71SDmmO1m7L.jpg",
-      "heat_score": 68,
-      "tags": [
-        "Amazon Bestseller",
-        "Sweaters & Knits",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing JMIERR Men's Quarter Zip Pullover Sweater Cable Knit Sweaters V Neck Soft, high-end Sweaters & Knits editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-sweaters-17",
-      "rank": 17,
-      "platform": "Amazon Fashion",
-      "category_key": "sweaters",
-      "category_name": "毛衣与针织衫",
-      "category_en": "Sweaters & Knits",
       "title": "Amazon Essentials Men's Relaxed-Fit Cotton Blend Cardigan",
-      "image_url": "https://m.media-amazon.com/images/I/81YANR9w76L.jpg",
-      "heat_score": 66,
+      "image_url": "https://m.media-amazon.com/images/I/81zbUrUlm0L.jpg",
+      "heat_score": 68,
       "tags": [
         "Amazon Bestseller",
         "Sweaters & Knits",
@@ -1665,15 +1308,15 @@
       "prompt_recipe": "commercial fashion catalog photography of a model wearing Amazon Essentials Men's Relaxed-Fit Cotton Blend Cardigan, high-end Sweaters & Knits editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-sweaters-18",
-      "rank": 18,
+      "id": "amz-sweaters-17",
+      "rank": 17,
       "platform": "Amazon Fashion",
       "category_key": "sweaters",
       "category_name": "毛衣与针织衫",
       "category_en": "Sweaters & Knits",
       "title": "Amazon Essentials Men's Regular Fit Cotton V-Neck Pullover Sweater (Available in Big & Tall)",
       "image_url": "https://m.media-amazon.com/images/I/71hB9shMqlL.jpg",
-      "heat_score": 64,
+      "heat_score": 66,
       "tags": [
         "Amazon Bestseller",
         "Sweaters & Knits",
@@ -1682,21 +1325,38 @@
       "prompt_recipe": "commercial fashion catalog photography of a model wearing Amazon Essentials Men's Regular Fit Cotton V-Neck Pullover Sweater Available in Big, high-end Sweaters & Knits editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
+      "id": "amz-sweaters-18",
+      "rank": 18,
+      "platform": "Amazon Fashion",
+      "category_key": "sweaters",
+      "category_name": "毛衣与针织衫",
+      "category_en": "Sweaters & Knits",
+      "title": "JMIERR Men's Quarter Zip Pullover Sweater Cable Knit Sweaters | V Neck, Soft Touch Texture, Machine Washable, Stand Collar, Long Sleeve, Fall, Winter, Fisherman",
+      "image_url": "https://m.media-amazon.com/images/I/71SDmmO1m7L.jpg",
+      "heat_score": 64,
+      "tags": [
+        "Amazon Bestseller",
+        "Sweaters & Knits",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing JMIERR Men's Quarter Zip Pullover Sweater Cable Knit Sweaters V Neck Soft, high-end Sweaters & Knits editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
       "id": "amz-sweaters-19",
       "rank": 19,
       "platform": "Amazon Fashion",
       "category_key": "sweaters",
       "category_name": "毛衣与针织衫",
       "category_en": "Sweaters & Knits",
-      "title": "iWoo Men's Quarter Zip Sweaters Slim Fit Long Sleeve Knitted Pullover Mock Neck Business Casual Dress Sweater",
-      "image_url": "https://m.media-amazon.com/images/I/81XvBc7tUOL.jpg",
+      "title": "Amazon Essentials Men's Quarter-Zip French Rib Mock Neck Sweater, Casual Wear",
+      "image_url": "https://m.media-amazon.com/images/I/911E2CqGGJL.jpg",
       "heat_score": 62,
       "tags": [
         "Amazon Bestseller",
         "Sweaters & Knits",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing iWoo Men's Quarter Zip Sweaters Slim Fit Long Sleeve Knitted Pullover Mock, high-end Sweaters & Knits editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Amazon Essentials Men's Quarter-Zip French Rib Mock Neck Sweater Casual Wear, high-end Sweaters & Knits editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-sweaters-20",
@@ -1705,15 +1365,15 @@
       "category_key": "sweaters",
       "category_name": "毛衣与针织衫",
       "category_en": "Sweaters & Knits",
-      "title": "Amazon Essentials Men's Quarter-Zip French Rib Mock Neck Sweater, Casual Wear",
-      "image_url": "https://m.media-amazon.com/images/I/911E2CqGGJL.jpg",
+      "title": "iWoo Men's Quarter Zip Sweaters Slim Fit Long Sleeve Knitted Pullover Mock Neck Business Casual Dress Sweater",
+      "image_url": "https://m.media-amazon.com/images/I/81XvBc7tUOL.jpg",
       "heat_score": 60,
       "tags": [
         "Amazon Bestseller",
         "Sweaters & Knits",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Amazon Essentials Men's Quarter-Zip French Rib Mock Neck Sweater Casual Wear, high-end Sweaters & Knits editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing iWoo Men's Quarter Zip Sweaters Slim Fit Long Sleeve Knitted Pullover Mock, high-end Sweaters & Knits editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-pants-1",
@@ -1756,15 +1416,15 @@
       "category_key": "pants",
       "category_name": "裤装与牛仔",
       "category_en": "Pants & Jeans",
-      "title": "Lee Women's Wrinkle Free Relaxed Fit Straight Leg Pant",
-      "image_url": "https://m.media-amazon.com/images/I/71qQHk-z-bL.jpg",
+      "title": "Ewedoos Wide Leg Dress Work Pants for Women Business Casual Office Outfits | Stretchy Pull on Slacks Trousers, Wrinkle-Resistant, 2 Side Pockets, Comfy for All-Day Wear, Business Casual, Travel,Teacher",
+      "image_url": "https://m.media-amazon.com/images/I/718itE4zCBL.jpg",
       "heat_score": 94,
       "tags": [
         "Amazon Bestseller",
         "Pants & Jeans",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Lee Women's Wrinkle Free Relaxed Fit Straight Leg Pant, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Ewedoos Wide Leg Dress Work Pants for Women Business Casual Office Outfits, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-pants-4",
@@ -1773,15 +1433,15 @@
       "category_key": "pants",
       "category_name": "裤装与牛仔",
       "category_en": "Pants & Jeans",
-      "title": "Ewedoos Wide Leg Dress Work Pants for Women Business Casual Office Outfits | Stretchy Pull on Slacks Trousers, Wrinkle-Resistant, 2 Side Pockets, Comfy for All-Day Wear, Business Casual, Travel,Teacher",
-      "image_url": "https://m.media-amazon.com/images/I/718itE4zCBL.jpg",
+      "title": "Lee Women's Wrinkle Free Relaxed Fit Straight Leg Pant",
+      "image_url": "https://m.media-amazon.com/images/I/71qQHk-z-bL.jpg",
       "heat_score": 92,
       "tags": [
         "Amazon Bestseller",
         "Pants & Jeans",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Ewedoos Wide Leg Dress Work Pants for Women Business Casual Office Outfits, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Lee Women's Wrinkle Free Relaxed Fit Straight Leg Pant, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-pants-5",
@@ -1824,7 +1484,7 @@
       "category_key": "pants",
       "category_name": "裤装与牛仔",
       "category_en": "Pants & Jeans",
-      "title": "NIMIN Women Wide Leg Work Pants High Waisted Dress Trousers with Pockets | Front Pleated Palazzo Slacks, Business Casual Outfits, Formal Office Daily Wear, Professional Interview Teacher Pants",
+      "title": "NIMIN Women Wide Leg Work Pants Dress Trousers with Pockets | High Waisted Palazzo Slacks, Business Casual Outfits, Formal Office Daily Wear, Professional Interview Teacher Pants",
       "image_url": "https://m.media-amazon.com/images/I/51ceHthhpYL.jpg",
       "heat_score": 86,
       "tags": [
@@ -1832,7 +1492,7 @@
         "Pants & Jeans",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing NIMIN Women Wide Leg Work Pants High Waisted Dress Trousers with Pockets, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing NIMIN Women Wide Leg Work Pants Dress Trousers with Pockets High Waisted, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-pants-8",
@@ -1909,43 +1569,9 @@
       "category_key": "pants",
       "category_name": "裤装与牛仔",
       "category_en": "Pants & Jeans",
-      "title": "iChosy Womens High Waist Wide Straight Leg Trousers Casual Slacks Dress Pants with Pockets",
-      "image_url": "https://m.media-amazon.com/images/I/61P2HFoBVeL.jpg",
-      "heat_score": 76,
-      "tags": [
-        "Amazon Bestseller",
-        "Pants & Jeans",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing iChosy Womens High Waist Wide Straight Leg Trousers Casual Slacks Dress Pants, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-pants-13",
-      "rank": 13,
-      "platform": "Amazon Fashion",
-      "category_key": "pants",
-      "category_name": "裤装与牛仔",
-      "category_en": "Pants & Jeans",
-      "title": "ODODOS Modal Soft Wide Leg Pants for Women High Waist Casual Relaxed Pants with Pockets-27/29\"/ 31\" Inseam",
-      "image_url": "https://m.media-amazon.com/images/I/61GTm7jgTUL.jpg",
-      "heat_score": 74,
-      "tags": [
-        "Amazon Bestseller",
-        "Pants & Jeans",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing ODODOS Modal Soft Wide Leg Pants for Women High Waist Casual Relaxed, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-pants-14",
-      "rank": 14,
-      "platform": "Amazon Fashion",
-      "category_key": "pants",
-      "category_name": "裤装与牛仔",
-      "category_en": "Pants & Jeans",
       "title": "Hybrid & Company Womens Hyper Ultra Stretch Comfy Skinny Leg Work Casual Pants",
       "image_url": "https://m.media-amazon.com/images/I/51fEBcyRNEL.jpg",
-      "heat_score": 72,
+      "heat_score": 76,
       "tags": [
         "Amazon Bestseller",
         "Pants & Jeans",
@@ -1954,15 +1580,32 @@
       "prompt_recipe": "commercial fashion catalog photography of a model wearing Hybrid & Company Womens Hyper Ultra Stretch Comfy Skinny Leg Work Casual, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
-      "id": "amz-pants-15",
-      "rank": 15,
+      "id": "amz-pants-13",
+      "rank": 13,
+      "platform": "Amazon Fashion",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "iChosy Womens High Waist Wide Straight Leg Trousers Casual Slacks Dress Pants with Pockets",
+      "image_url": "https://m.media-amazon.com/images/I/61P2HFoBVeL.jpg",
+      "heat_score": 74,
+      "tags": [
+        "Amazon Bestseller",
+        "Pants & Jeans",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing iChosy Womens High Waist Wide Straight Leg Trousers Casual Slacks Dress Pants, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
+      "id": "amz-pants-14",
+      "rank": 14,
       "platform": "Amazon Fashion",
       "category_key": "pants",
       "category_name": "裤装与牛仔",
       "category_en": "Pants & Jeans",
       "title": "Lepunuo Cargo Pants for Women High Waisted Casual Pants Baggy Stretchy Wide Leg Y2K Streetwear with 6 Pockets",
       "image_url": "https://m.media-amazon.com/images/I/5164CQMEFcL.jpg",
-      "heat_score": 70,
+      "heat_score": 72,
       "tags": [
         "Amazon Bestseller",
         "Pants & Jeans",
@@ -1971,32 +1614,32 @@
       "prompt_recipe": "commercial fashion catalog photography of a model wearing Lepunuo Cargo Pants for Women High Waisted Casual Pants Baggy Stretchy Wide, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
+      "id": "amz-pants-15",
+      "rank": 15,
+      "platform": "Amazon Fashion",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "ODODOS Modal Soft Wide Leg Pants for Women High Waist Casual Relaxed Pants with Pockets-27/29\"/ 31\" Inseam",
+      "image_url": "https://m.media-amazon.com/images/I/61GTm7jgTUL.jpg",
+      "heat_score": 70,
+      "tags": [
+        "Amazon Bestseller",
+        "Pants & Jeans",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing ODODOS Modal Soft Wide Leg Pants for Women High Waist Casual Relaxed, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
       "id": "amz-pants-16",
       "rank": 16,
       "platform": "Amazon Fashion",
       "category_key": "pants",
       "category_name": "裤装与牛仔",
       "category_en": "Pants & Jeans",
-      "title": "Womens Elastic Waist Ankle Pants Baggy Tapered Barrel Travel Pants Trousers | Mid Rise,Curved Leg,Ankle Length,Pockets,Lightweight,Quick Dry,Casual,Hiking,Work,Jogger Pants",
-      "image_url": "https://m.media-amazon.com/images/I/51BgLLVrBIL.jpg",
-      "heat_score": 68,
-      "tags": [
-        "Amazon Bestseller",
-        "Pants & Jeans",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Womens Elastic Waist Ankle Pants Baggy Tapered Barrel Travel Pants Trousers Mid, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-pants-17",
-      "rank": 17,
-      "platform": "Amazon Fashion",
-      "category_key": "pants",
-      "category_name": "裤装与牛仔",
-      "category_en": "Pants & Jeans",
       "title": "iChosy Women's Stretch Straight Leg Dress Work Pants Business Casual Slacks | Office Trousers, Elastic Waistband, Functional Pockets, Breathable Lightweight Fabric, Belt Loops, Multiple Inseam Lengths",
       "image_url": "https://m.media-amazon.com/images/I/61dRugKpJsL.jpg",
-      "heat_score": 66,
+      "heat_score": 68,
       "tags": [
         "Amazon Bestseller",
         "Pants & Jeans",
@@ -2005,21 +1648,38 @@
       "prompt_recipe": "commercial fashion catalog photography of a model wearing iChosy Women's Stretch Straight Leg Dress Work Pants Business Casual Slacks Office, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
+      "id": "amz-pants-17",
+      "rank": 17,
+      "platform": "Amazon Fashion",
+      "category_key": "pants",
+      "category_name": "裤装与牛仔",
+      "category_en": "Pants & Jeans",
+      "title": "Sampeel Wide Leg Pants Woman High Waist Trousers with Pockets Casual Lounge",
+      "image_url": "https://m.media-amazon.com/images/I/71LXAwyTqJL.jpg",
+      "heat_score": 66,
+      "tags": [
+        "Amazon Bestseller",
+        "Pants & Jeans",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Sampeel Wide Leg Pants Woman High Waist Trousers with Pockets Casual Lounge, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
       "id": "amz-pants-18",
       "rank": 18,
       "platform": "Amazon Fashion",
       "category_key": "pants",
       "category_name": "裤装与牛仔",
       "category_en": "Pants & Jeans",
-      "title": "Stelle Womens Bootcut Stretch Dress Work Pants Slacks with Pockets Pull On | Business Casual Office Slacks, 4-Way Stretch Non-See-Through Fabric, Front Pockets, 28\"/30\"/32\" Inseam Options",
-      "image_url": "https://m.media-amazon.com/images/I/61DJFrCis2L.jpg",
+      "title": "Womens Elastic Waist Ankle Pants Baggy Tapered Barrel Travel Pants Trousers | Mid Rise,Curved Leg,Ankle Length,Pockets,Lightweight,Quick Dry,Casual,Hiking,Work,Jogger Pants",
+      "image_url": "https://m.media-amazon.com/images/I/51BgLLVrBIL.jpg",
       "heat_score": 64,
       "tags": [
         "Amazon Bestseller",
         "Pants & Jeans",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Stelle Womens Bootcut Stretch Dress Work Pants Slacks with Pockets Pull On, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Womens Elastic Waist Ankle Pants Baggy Tapered Barrel Travel Pants Trousers Mid, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-pants-19",
@@ -2045,15 +1705,15 @@
       "category_key": "pants",
       "category_name": "裤装与牛仔",
       "category_en": "Pants & Jeans",
-      "title": "Sampeel Wide Leg Pants Woman High Waist Trousers with Pockets Casual Lounge",
-      "image_url": "https://m.media-amazon.com/images/I/71LXAwyTqJL.jpg",
+      "title": "Stelle Womens Bootcut Stretch Dress Work Pants Slacks with Pockets Pull On | Business Casual Office Slacks, 4-Way Stretch Non-See-Through Fabric, Front Pockets, 28\"/30\"/32\" Inseam Options",
+      "image_url": "https://m.media-amazon.com/images/I/61DJFrCis2L.jpg",
       "heat_score": 60,
       "tags": [
         "Amazon Bestseller",
         "Pants & Jeans",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Sampeel Wide Leg Pants Woman High Waist Trousers with Pockets Casual Lounge, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Stelle Womens Bootcut Stretch Dress Work Pants Slacks with Pockets Pull On, high-end Pants & Jeans editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-activewear-1",
@@ -2062,15 +1722,15 @@
       "category_key": "activewear",
       "category_name": "运动与套装",
       "category_en": "Activewear & Sets",
-      "title": "PINSPARK 2 Piece Sets for Women 1/2 Zip Sweatsuit 2026 Matching Outfit Fall | Lightweight Air Layer Fabric, Loose Fit Sweatshirt, Straight Leg Pants with Pockets, Soft Lounge Sets, Airport Outfits Women",
-      "image_url": "https://m.media-amazon.com/images/I/61nc9hITqnL.jpg",
+      "title": "PRETTYGARDEN Women's 2 Piece Matching Lounge Set Sweatsuits | Zip Up Sweatshirt, Long Sleeve Pullover Tops, Elastic Waist Drawstring, Wide Leg Pants Pocket, Fall Tracksuit, Spring Outfits",
+      "image_url": "https://m.media-amazon.com/images/I/61mVGvGfGKL.jpg",
       "heat_score": 98,
       "tags": [
         "Amazon Bestseller",
         "Activewear & Sets",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing PINSPARK 2 Piece Sets for Women 1/2 Zip Sweatsuit 2026 Matching Outfit, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing PRETTYGARDEN Women's 2 Piece Matching Lounge Set Sweatsuits Zip Up Sweatshirt Long, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-activewear-2",
@@ -2079,15 +1739,15 @@
       "category_key": "activewear",
       "category_name": "运动与套装",
       "category_en": "Activewear & Sets",
-      "title": "Trendy Queen Womens 2 Piece Lounge Sweat Sets Matching Sweatsuits | Oversized Hoodie,Drawstring,Drop Shoulder,Kangaroo Pocket,Wide Leg Sweatpants",
-      "image_url": "https://m.media-amazon.com/images/I/61ZKpnT2NmL.jpg",
+      "title": "PINSPARK 2 Piece Sets for Women 1/2 Zip Sweatsuit 2026 Matching Outfit Fall | Lightweight Air Layer Fabric, Loose Fit Sweatshirt, Straight Leg Pants with Pockets, Soft Lounge Sets, Airport Outfits Women",
+      "image_url": "https://m.media-amazon.com/images/I/61nc9hITqnL.jpg",
       "heat_score": 96,
       "tags": [
         "Amazon Bestseller",
         "Activewear & Sets",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Trendy Queen Womens 2 Piece Lounge Sweat Sets Matching Sweatsuits Oversized Hoodie, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing PINSPARK 2 Piece Sets for Women 1/2 Zip Sweatsuit 2026 Matching Outfit, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-activewear-3",
@@ -2096,15 +1756,15 @@
       "category_key": "activewear",
       "category_name": "运动与套装",
       "category_en": "Activewear & Sets",
-      "title": "PRETTYGARDEN Women's 2 Piece Matching Lounge Set Sweatsuits | Zip Up Sweatshirt, Long Sleeve Pullover Tops, Elastic Waist Drawstring, Wide Leg Pants Pocket, Fall Tracksuit, Spring Outfits",
-      "image_url": "https://m.media-amazon.com/images/I/61mVGvGfGKL.jpg",
+      "title": "Trendy Queen Womens 2 Piece Lounge Sweat Sets Matching Sweatsuits | Oversized Hoodie,Drawstring,Drop Shoulder,Kangaroo Pocket,Wide Leg Sweatpants",
+      "image_url": "https://m.media-amazon.com/images/I/61ZKpnT2NmL.jpg",
       "heat_score": 94,
       "tags": [
         "Amazon Bestseller",
         "Activewear & Sets",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing PRETTYGARDEN Women's 2 Piece Matching Lounge Set Sweatsuits Zip Up Sweatshirt Long, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Trendy Queen Womens 2 Piece Lounge Sweat Sets Matching Sweatsuits Oversized Hoodie, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-activewear-4",
@@ -2181,15 +1841,15 @@
       "category_key": "activewear",
       "category_name": "运动与套装",
       "category_en": "Activewear & Sets",
-      "title": "LILLUSORY 2 Piece Lounge Sets for Women 2026 Fall Fashion Outfits Sweat Set | Airport Travel Outfits, Athleisure Workout Set SweatSuits, Winter Fall Clothes, Two Piece Activewear Matching Loungewear Set",
-      "image_url": "https://m.media-amazon.com/images/I/715ZyqX1RaL.jpg",
+      "title": "AUTOMET Women's Sweatsuits 2 Piece Outfits Lounge Sets | Cozy Airport Outfits,Casual Sweat Sets for Fall and Winter,Half Zip Pullover and Baggy Sweatpants with Pockets",
+      "image_url": "https://m.media-amazon.com/images/I/517TIPa2UML.jpg",
       "heat_score": 84,
       "tags": [
         "Amazon Bestseller",
         "Activewear & Sets",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing LILLUSORY 2 Piece Lounge Sets for Women 2026 Fall Fashion Outfits Sweat, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing AUTOMET Women's Sweatsuits 2 Piece Outfits Lounge Sets Cozy Airport Outfits Casual, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-activewear-9",
@@ -2198,15 +1858,15 @@
       "category_key": "activewear",
       "category_name": "运动与套装",
       "category_en": "Activewear & Sets",
-      "title": "AUTOMET Women's Sweatsuits 2 Piece Outfits Lounge Sets | Cozy Airport Outfits,Casual Sweat Sets for Fall and Winter,Half Zip Pullover and Baggy Sweatpants with Pockets",
-      "image_url": "https://m.media-amazon.com/images/I/517TIPa2UML.jpg",
+      "title": "LILLUSORY 2 Piece Lounge Sets for Women 2026 Fall Fashion Outfits Sweat Set | Airport Travel Outfits, Athleisure Workout Set SweatSuits, Winter Fall Clothes, Two Piece Activewear Matching Loungewear Set",
+      "image_url": "https://m.media-amazon.com/images/I/61vojZFqUNL.jpg",
       "heat_score": 82,
       "tags": [
         "Amazon Bestseller",
         "Activewear & Sets",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing AUTOMET Women's Sweatsuits 2 Piece Outfits Lounge Sets Cozy Airport Outfits Casual, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing LILLUSORY 2 Piece Lounge Sets for Women 2026 Fall Fashion Outfits Sweat, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-activewear-10",
@@ -2233,7 +1893,7 @@
       "category_name": "运动与套装",
       "category_en": "Activewear & Sets",
       "title": "PINSPARK 2 Piece Sets for Women 1/4 Zip Lounge Matching Set Fall Outfits | Petite& Regular& Tall, Oversized Sweatshirt, Wide Leg Pants with Drawstring Pockets, Sweatsuit, 2026 Travel Airport Tracksuit",
-      "image_url": "https://m.media-amazon.com/images/I/61vnIvS5ZQL.jpg",
+      "image_url": "https://m.media-amazon.com/images/I/61r3OFiEKUL.jpg",
       "heat_score": 78,
       "tags": [
         "Amazon Bestseller",
@@ -2266,26 +1926,9 @@
       "category_key": "activewear",
       "category_name": "运动与套装",
       "category_en": "Activewear & Sets",
-      "title": "Aitmoask Velour Track Suits for Women Set Fall Sweatsuits 2 Piece",
-      "image_url": "https://m.media-amazon.com/images/I/619VueDfoJL.jpg",
-      "heat_score": 74,
-      "tags": [
-        "Amazon Bestseller",
-        "Activewear & Sets",
-        "Spring/Summer 2026"
-      ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Aitmoask Velour Track Suits for Women Set Fall Sweatsuits 2 Piece, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
-    },
-    {
-      "id": "amz-activewear-14",
-      "rank": 14,
-      "platform": "Amazon Fashion",
-      "category_key": "activewear",
-      "category_name": "运动与套装",
-      "category_en": "Activewear & Sets",
       "title": "Trendy Queen Women's Mock Neck 2 Piece Sweat Sets Sweatsuits Fall Outfits | Two Piece Matching Set, Airport Travel Outfits, Fall Winter Fashion Clothes 2026, Oversized Sweatshirts & Wide Leg Sweatpants",
       "image_url": "https://m.media-amazon.com/images/I/61-DZ19Gx3L.jpg",
-      "heat_score": 72,
+      "heat_score": 74,
       "tags": [
         "Amazon Bestseller",
         "Activewear & Sets",
@@ -2294,21 +1937,38 @@
       "prompt_recipe": "commercial fashion catalog photography of a model wearing Trendy Queen Women's Mock Neck 2 Piece Sweat Sets Sweatsuits Fall Outfits, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
+      "id": "amz-activewear-14",
+      "rank": 14,
+      "platform": "Amazon Fashion",
+      "category_key": "activewear",
+      "category_name": "运动与套装",
+      "category_en": "Activewear & Sets",
+      "title": "Sampeel Womens Two Piece Lounge Sets Casual Summer Outfits 2 Piece Short Matching Clothing Set",
+      "image_url": "https://m.media-amazon.com/images/I/61ojqqrIT4L.jpg",
+      "heat_score": 72,
+      "tags": [
+        "Amazon Bestseller",
+        "Activewear & Sets",
+        "Spring/Summer 2026"
+      ],
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Sampeel Womens Two Piece Lounge Sets Casual Summer Outfits 2 Piece Short, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+    },
+    {
       "id": "amz-activewear-15",
       "rank": 15,
       "platform": "Amazon Fashion",
       "category_key": "activewear",
       "category_name": "运动与套装",
       "category_en": "Activewear & Sets",
-      "title": "PINSPARK 2 Piece Sets for Women Two-Way Zip Top Wide Leg Pants Tracksuit | Regular & Petite,Kangaroo Pockets,Stand Collar,Breathable,Luxurious,Lounge,Travel,Athleisure,Vacation",
-      "image_url": "https://m.media-amazon.com/images/I/61tVcO2Z50L.jpg",
+      "title": "SUUKSESS 2 Piece Workout Sets Layered Sports Bra Yoga Gym Biker Shorts",
+      "image_url": "https://m.media-amazon.com/images/I/61Zd-xC31QL.jpg",
       "heat_score": 70,
       "tags": [
         "Amazon Bestseller",
         "Activewear & Sets",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing PINSPARK 2 Piece Sets for Women Two-Way Zip Top Wide Leg Pants, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing SUUKSESS 2 Piece Workout Sets Layered Sports Bra Yoga Gym Biker Shorts, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-activewear-16",
@@ -2317,15 +1977,15 @@
       "category_key": "activewear",
       "category_name": "运动与套装",
       "category_en": "Activewear & Sets",
-      "title": "Sampeel Womens Two Piece Lounge Sets Casual Summer Outfits 2 Piece Short Matching Clothing Set",
-      "image_url": "https://m.media-amazon.com/images/I/61ojqqrIT4L.jpg",
+      "title": "PINSPARK 2 Piece Sets for Women Two-Way Zip Top Wide Leg Pants Tracksuit | Regular & Petite,Kangaroo Pockets,Stand Collar,Breathable,Luxurious,Lounge,Travel,Athleisure,Vacation",
+      "image_url": "https://m.media-amazon.com/images/I/61tVcO2Z50L.jpg",
       "heat_score": 68,
       "tags": [
         "Amazon Bestseller",
         "Activewear & Sets",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing Sampeel Womens Two Piece Lounge Sets Casual Summer Outfits 2 Piece Short, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing PINSPARK 2 Piece Sets for Women Two-Way Zip Top Wide Leg Pants, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-activewear-17",
@@ -2351,15 +2011,15 @@
       "category_key": "activewear",
       "category_name": "运动与套装",
       "category_en": "Activewear & Sets",
-      "title": "SUUKSESS 2 Piece Workout Sets Layered Sports Bra Yoga Gym Biker Shorts",
-      "image_url": "https://m.media-amazon.com/images/I/61Zd-xC31QL.jpg",
+      "title": "Aitmoask Velour Track Suits for Women Set Fall Sweatsuits 2 Piece",
+      "image_url": "https://m.media-amazon.com/images/I/619VueDfoJL.jpg",
       "heat_score": 64,
       "tags": [
         "Amazon Bestseller",
         "Activewear & Sets",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing SUUKSESS 2 Piece Workout Sets Layered Sports Bra Yoga Gym Biker Shorts, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing Aitmoask Velour Track Suits for Women Set Fall Sweatsuits 2 Piece, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-activewear-19",
@@ -2368,15 +2028,15 @@
       "category_key": "activewear",
       "category_name": "运动与套装",
       "category_en": "Activewear & Sets",
-      "title": "JUICICI Two Piece Sets for Women Striped Lounge Set Airport Travel Outfits | Loung Sets,Fall Fashion Clothing,Two Piece Sweatsuits,Airport Travel,Teacher Outfits,Vacation,Casual Track Suits,Loungewear",
-      "image_url": "https://m.media-amazon.com/images/I/71vtq0BJlhL.jpg",
+      "title": "SUUKSESS Women 2 Piece Workout Sets High Waisted Tummy Control Biker Shorts Halter Padded Tank Tops",
+      "image_url": "https://m.media-amazon.com/images/I/61pJHKH82KL.jpg",
       "heat_score": 62,
       "tags": [
         "Amazon Bestseller",
         "Activewear & Sets",
         "Spring/Summer 2026"
       ],
-      "prompt_recipe": "commercial fashion catalog photography of a model wearing JUICICI Two Piece Sets for Women Striped Lounge Set Airport Travel Outfits, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
+      "prompt_recipe": "commercial fashion catalog photography of a model wearing SUUKSESS Women 2 Piece Workout Sets High Waisted Tummy Control Biker Shorts, high-end Activewear & Sets editorial style, clean studio background, ultra-detailed fabric textures, professional studio lighting, trending on Amazon Fashion, 8k resolution, photorealistic"
     },
     {
       "id": "amz-activewear-20",
